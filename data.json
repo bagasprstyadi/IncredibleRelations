@@ -1005,6 +1005,9 @@
   },
   "OnePlus":{
      "OnePlus One":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
+        "Dual Sim":0,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1025,6 +1028,9 @@
         "Misc":""
      },
      "OnePlus 2":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8994 Snapdragon 810",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)",
         "RAM":"3 GB, 4 GB",
         "GPU":"Adreno 430",
@@ -1045,6 +1051,9 @@
         "Misc":""
      },
      "OnePlus 3":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 820",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1065,6 +1074,9 @@
         "Misc":""
      },
      "OnePlus 3T":{
+        "Network":"GSM/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 821",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1085,6 +1097,9 @@
         "Misc":""
      },
      "OnePlus 5":{
+        "Network":"GSM/HSPA/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8998 Snapdragon 835",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1105,6 +1120,9 @@
         "Misc":""
      },
      "OnePlus 5T":{
+        "Network":"GSM/HSPA/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8998 Snapdragon 835",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1123,10 +1141,36 @@
         "Tebal":"7.3 mm",
         "Fingerprint Reader":1,
         "Misc":""
+     },
+     "OnePlus X":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm Snapdragon 801",
+        "Dual Sim":1,
+        "CPU":"Quad-core 2.3 GHz Krait 400",
+        "RAM":"3 GB",
+        "GPU":"Adreno 330",
+        "Storage":"16 GB",
+        "ScreenSize":"5.0 inches",
+        "ScreenType":"AMOLED capacitive touchscreen, 16M colors",
+        "OS":"Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
+        "Price":"IDR 4300000",
+        "Battery":"Non-removable Li-Po 2525 mAh battery",
+        "Camera":{
+           "Primary":"13 MP",
+           "Secondary":"8 MP"
+        },
+        "Warna":"Onyx, Ceramic, Champagne",
+        "Berat":"138 g",
+        "Tebal":"6.9 mm",
+        "Fingerprint Reader":0,
+        "Misc":""
      }
   },
   "Iphone":{
      "Iphone 4":{
+        "Network":"GSM/HSPA",
+        "Chipset":"Apple A4",
+        "Dual Sim":0,
         "CPU":"1.0 GHz Cortex-A8",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX535",
@@ -1147,6 +1191,9 @@
         "Misc":""
      },
      "Iphone 4s":{
+        "Network":"GSM/CDMA/EVDO/HSPA",
+        "Chipset":"Apple A5",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.0 GHz Cortex-A9",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX543MP2",
@@ -1167,6 +1214,9 @@
         "Misc":""
      },
      "Iphone 5":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A6",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
@@ -1187,6 +1237,9 @@
         "Misc":""
      },
      "Iphone 5c":{
+        "Network":"GSM/CDMA/HSPA/LTE",
+        "Chipset":"Apple A6",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
@@ -1207,6 +1260,9 @@
         "Misc":""
      },
      "Iphone 5s":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A7",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.3 GHz Cyclone (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR G6430 (quad-core graphics)",
@@ -1227,6 +1283,9 @@
         "Misc":""
      },
      "Iphone SE":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A9",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1247,6 +1306,9 @@
         "Misc":""
      },
      "Iphone 6":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A8",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
@@ -1267,6 +1329,9 @@
         "Misc":""
      },
      "Iphone 6s":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A9",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1287,6 +1352,9 @@
         "Misc":""
      },
      "Iphone 6 plus":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A8",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
@@ -1307,6 +1375,9 @@
         "Misc":""
      },
      "Iphone 6s plus":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A9",
+        "Dual Sim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1327,6 +1398,9 @@
         "Misc":""
      },
      "Iphone 7":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A10 Fusion",
+        "Dual Sim":0,
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"2 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1347,6 +1421,9 @@
         "Misc":""
      },
      "Iphone 7 plus":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Apple A10 Fusion",
+        "Dual Sim":0,
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"3 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1367,6 +1444,9 @@
         "Misc":"Dual Camera"
      },
      "Iphone 8":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Apple A11 Bionic",
+        "Dual Sim":0,
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"2 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1387,6 +1467,9 @@
         "Misc":""
      },
      "Iphone 8 plus":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Apple A11 Bionic",
+        "Dual Sim":0,
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1407,6 +1490,9 @@
         "Misc":""
      },
      "Iphone X":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Apple A11 Bionic",
+        "Dual Sim":0,
         "CPU":"Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1429,6 +1515,9 @@
   },
   "Xiaomi":{
      "Xiaomi Redmi":{
+        "Network":"GSM/HSPA",
+        "Chipset":"Mediatek MT6589T",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.5 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
@@ -1449,6 +1538,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 1s":{
+        "Network":"GSM/HSPA",
+        "Chipset":"Qualcomm MSM8228 Snapdragon 400",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.6 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"Adreno 305",
@@ -1469,6 +1561,9 @@
         "Misc":""
      },
      "Xiaomi Mi 3":{
+        "Network":"GSM/HSPA",
+        "Chipset":"Qualcomm MSM8274AB Snapdragon 800",
+        "Dual Sim":0,
         "CPU":"Quad-core 2.3 GHz Krait 400",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
@@ -1489,6 +1584,9 @@
         "Misc":""
      },
      "Xiaomi Redmi Note":{
+        "Network":"GSM/HSPA",
+        "Chipset":" Mediatek MT6592",
+        "Dual Sim":1,
         "CPU":"Octa-core 1.4/1.7 GHz Cortex-A7",
         "RAM":"1/2 GB",
         "GPU":"Mali-450MP4",
@@ -1509,6 +1607,9 @@
         "Misc":""
      },
      "Xiaomi Mi 4":{
+        "Network":"GSM/CDMA/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
+        "Dual Sim":0,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"2/3 GB",
         "GPU":"Adreno 330",
@@ -1529,6 +1630,9 @@
         "Misc":""
      },
      "Xiaomi Mi 4s":{
+        "Network":"GSM/CDMA/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8992 Snapdragon 808",
+        "Dual Sim":1,
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
         "RAM":"3 GB",
         "GPU":"Adreno 418",
@@ -1549,6 +1653,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 2":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8916 Snapdragon 410",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"1/2 GB",
         "GPU":"Adreno 306",
@@ -1569,6 +1676,9 @@
         "Misc":""
      },
      "Xiaomi Mi Note":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
+        "Dual Sim":1,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1589,6 +1699,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 2 Prime":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8916 Snapdragon 410",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1609,6 +1722,9 @@
         "Misc":""
      },
      "Xiaomi Mi Note Pro":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8994 Snapdragon 810",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
         "RAM":"4 GB",
         "GPU":"Adreno 330",
@@ -1629,6 +1745,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 2 Pro":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8916 Snapdragon 410",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1649,6 +1768,9 @@
         "Misc":""
      },
      "Xiaomi Mi Max":{
+        "Network":"GSM/CDMA/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8956 Snapdragon 650",
+        "Dual Sim":1,
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72), Octa-core (4x1.4 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
         "RAM":"2/3/4 GB",
         "GPU":"Adreno 510",
@@ -1669,6 +1791,9 @@
         "Misc":""
      },
      "Xiaomi Redmi Note 2":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Mediatek MT6795 Helio X10",
+        "Dual Sim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"PowerVR G62006",
@@ -1689,6 +1814,9 @@
         "Misc":""
      },
      "Xiaomi Mi 5":{
+        "Network":"GSM/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 820",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x1.8 GHz Kryo & 2x1.36 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -1709,6 +1837,9 @@
         "Misc":""
      },
      "Xiaomi Mi 5 Prime":{
+        "Network":"GSM/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 820",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -1729,6 +1860,9 @@
         "Misc":""
      },
      "Xiaomi Mi 5 Pro":{
+        "Network":"GSM/HSPA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 820",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"4 GB",
         "GPU":"Adreno 530",
@@ -1749,6 +1883,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 3":{
+        "Network":"GSM/HSPA/EVDO/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"2 GB",
         "GPU":"Adreno 405",
@@ -1769,6 +1906,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 3 Pro":{
+        "Network":"GSM/HSPA/EVDO/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
@@ -1789,6 +1929,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 3x":{
+        "Network":"GSM/HSPA/EVDO/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8937 Snapdragon 430",
+        "Dual Sim":1,
         "CPU":"Octa-core 1.4 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 505",
@@ -1809,6 +1952,9 @@
         "Misc":""
      },
      "Xiaomi Mi Note 2":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 821",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -1829,6 +1975,9 @@
         "Misc":""
      },
      "Xiaomi Mi Mix":{
+        "Network":"GSM/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8996 Snapdragon 821",
+        "Dual Sim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -1849,6 +1998,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 4 Prime":{
+        "Network":"GSM/CDMA/EVDO/HSPA/LTE",
+        "Chipset":"Qualcomm MSM8953 Snapdragon 625",
+        "Dual Sim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3 GB",
         "GPU":"Adreno 506",
@@ -1869,6 +2021,9 @@
         "Misc":""
      },
      "Xiaomi Mi 6":{
+        "Network":"GSM//HSPA/LTE",
+        "Chipset":"Qualcomm MSM8998 Snapdragon 835",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 540",
@@ -1889,6 +2044,9 @@
         "Misc":""
      },
      "Xiaomi Mi A1":{
+        "Network":"GSM//HSPA/LTE",
+        "Chipset":"Qualcomm MSM8953 Snapdragon 625",
+        "Dual Sim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
@@ -1909,6 +2067,9 @@
         "Misc":""
      },
      "Xiaomi Mi Note 3":{
+        "Network":"GSM//HSPA/CDMA/EVDO/LTE",
+        "Chipset":"Qualcomm MSM8956 Plus Snapdragon 660",
+        "Dual Sim":1,
         "CPU":"Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
         "RAM":"6 GB",
         "GPU":"Adreno 512",
@@ -1929,6 +2090,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 5":{
+        "Network":"GSM//HSPA/CDMA/LTE",
+        "Chipset":"Qualcomm Snapdragon 450",
+        "Dual Sim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 506",
@@ -1949,6 +2113,9 @@
         "Misc":""
      },
      "Xiaomi Redmi 5A":{
+        "Network":"GSM//HSPA/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8917 Snapdragon 425",
+        "Dual Sim":1,
         "CPU":"Quad-core 1.4 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 308",
@@ -1969,6 +2136,9 @@
         "Misc":""
      },
      "Xiaomi Redmi Note 4X":{
+        "Network":"GSM//HSPA/CDMA/LTE",
+        "Chipset":"Qualcomm MSM8953 Snapdragon 625",
+        "Dual Sim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3/4 GB",
         "GPU":"Adreno 506",

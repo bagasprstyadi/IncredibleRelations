@@ -1,0 +1,112 @@
+{
+  "OnePlus":
+    {
+    "OnePlus One" :
+      {
+        "CPU": "Quad-core 2.5 GHz Krait 400",
+        "RAM": "3 GB",
+        "GPU": "Adreno 330",
+        "Storage": "16/64 GB",
+        "ScreenSize": "5.5 inches",
+        "ScreenType": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+        "OS": " Android 4.4.2 (KitKat), upgradable to 6.0.1 (Marshmallow)",
+        "Price": "IDR 4000000",
+        "Battery": "Non-removable Li-Po 3100 mAh battery",
+        "Camera": {"Primary" : "13 MP", "Secondary": "5 MP" },
+        "Warna": "Silk White, Sandstone Black",
+        "Berat" : "162 g",
+        "Tebal" : "8.9 mm",
+        "Fingerprint Reader" : 0,
+        "Misc" : ""
+      },
+      "OnePlus 2" :
+      {
+        "CPU": "Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)",
+        "RAM": "3 GB, 4 GB",
+        "GPU": "Adreno 430",
+        "Storage": "16/64 GB",
+        "ScreenSize": "5.5 inches",
+        "ScreenType": "LTPS IPS LCD capacitive touchscreen, 16M colors",
+        "OS": " Android 5.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
+        "Price": "IDR 4800000",
+        "Battery": "Non-removable Li-Po 3300 mAh battery",
+        "Camera": {"Primary" : "13 MP", "Secondary": "5 MP" },
+        "Warna": "Sandstone Black",
+        "Berat" : "175 g",
+        "Tebal" : "9.9 mm",
+        "Fingerprint Reader" : 1,
+        "Misc" : ""
+      },
+       "OnePlus 3" :
+      {
+        "CPU": "Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
+        "RAM": "6 GB",
+        "GPU": "Adreno 530",
+        "Storage": "64 GB",
+        "ScreenSize": "5.5 inches",
+        "ScreenType": " Optic AMOLED capacitive touchscreen, 16M colors",
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Price": "IDR 6400000",
+        "Battery": "Non-removable Li-Ion 3000 mAh battery",
+        "Camera": {"Primary" : "16 MP", "Secondary": "8 MP" },
+        "Warna": "Graphite, soft gold",
+        "Berat" : "158 g",
+        "Tebal" : "7.4 mm",
+        "Fingerprint Reader" : 1,
+        "Misc" : ""
+      },
+      "OnePlus 3T" :
+      {
+        "CPU": "Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
+        "RAM": "6 GB",
+        "GPU": "Adreno 530",
+        "Storage": "64/128 GB",
+        "ScreenSize": "5.5 inches",
+        "ScreenType": " Optic AMOLED capacitive touchscreen, 16M colors",
+        "OS": "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
+        "Price": "IDR 7000000",
+        "Battery": "Non-removable Li-Ion 3400 mAh battery",
+        "Camera": {"Primary" : "16 MP", "Secondary": "16 MP" },
+        "Warna": "Gunmetal, Soft Gold, Midnight Black",
+        "Berat" : "158 g",
+        "Tebal" : "7.4 mm",
+        "Fingerprint Reader" : 1,
+        "Misc" : ""
+      },
+      "OnePlus 5" :
+      {
+        "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+        "RAM": "6 GB/8 GB",
+        "GPU": "Adreno 540",
+        "Storage": "64/128 GB",
+        "ScreenSize": "5.5 inches",
+        "ScreenType": " Optic AMOLED capacitive touchscreen, 16M colors",
+        "OS": "Android 7.1.1 (Nougat)",
+        "Price": "IDR 8000000",
+        "Battery": "Non-removable Li-Po 3300 mAh battery",
+        "Camera": {"Dual" : "16 MP + 20 MP", "Secondary": "16 MP" },
+        "Warna": "Midnight Black, Slate Gray",
+        "Berat" : "153 g",
+        "Tebal" : "7.3 mm",
+        "Fingerprint Reader" : 1,
+        "Misc" : ""
+      },
+      "OnePlus 5T" :
+      {
+        "CPU": "Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
+        "RAM": "6 GB/8 GB",
+        "GPU": "Adreno 540",
+        "Storage": "64/128 GB",
+        "ScreenSize": "6.01 inches",
+        "ScreenType": "Optic AMOLED capacitive touchscreen, 16M colors",
+        "OS": "Android 7.1.1 (Nougat)",
+        "Price": "IDR 8000000",
+        "Battery": "Non-removable Li-Po 3300 mAh battery",
+        "Camera": {"Dual" : "16 MP + 20 MP", "Secondary": "16 MP" },
+        "Warna": "Midnight Black, Lava Red (China only)",
+        "Berat" : "162 g",
+        "Tebal" : "7.3 mm",
+        "Fingerprint Reader" : 1,
+        "Misc" : ""
+      }
+}

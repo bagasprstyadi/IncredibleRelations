@@ -1,7 +1,7 @@
-{
-  "Samsung":{
-     "Galaxy Note 8":{
-        "CPU":"Snapdragon 835",
+{  
+  "Samsung":{  
+     "Galaxy Note 8":{  
+        "CPU":"Octa-core",
         "RAM":"6 GB",
         "GPU":"Mali-G71 MP20",
         "Storage":"128 GB",
@@ -10,7 +10,7 @@
         "OS":"Android 7.1.1 (Nougat)",
         "Price":"IDR 11800000",
         "Battery":"3300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"Dual 12 MP",
            "Secondary":"8 MP"
         },
@@ -18,10 +18,13 @@
         "Berat":"195 g",
         "Tebal":"8.6 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 835",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy Note 7":{
-        "CPU":"Exynos 8890 Octa",
+     "Galaxy Note 7":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Mali-T880 MP12",
         "Storage":"64 GB",
@@ -30,7 +33,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 8500000",
         "Battery":"3500 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -38,10 +41,13 @@
         "Berat":"169 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":"Bisa meledak"
+        "Misc":"Bisa meledak",
+        "Chipset":"Exynos 8890 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy Note 5":{
-        "CPU":"Exynos 7420 Octa",
+     "Galaxy Note 5":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Mali-T760MP8",
         "Storage":"64 GB",
@@ -50,7 +56,7 @@
         "OS":"Android 5.1.1 (Lollipop)",
         "Price":"IDR 3975000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
@@ -58,10 +64,13 @@
         "Berat":"171 g",
         "Tebal":"7.6 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7420 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy Note 4":{
-        "CPU":"Snapdragon 805",
+     "Galaxy Note 4":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Adreno 420",
         "Storage":"32 GB",
@@ -70,7 +79,7 @@
         "OS":"Android 4.4.4 (KitKat)",
         "Price":"IDR 3000000",
         "Battery":"3220 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"3.7 MP"
         },
@@ -78,10 +87,13 @@
         "Berat":"176 g",
         "Tebal":"8.5 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 805",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy Note 3":{
-        "CPU":"Snapdragon 800",
+     "Galaxy Note 3":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
         "Storage":"32 GB",
@@ -90,7 +102,7 @@
         "OS":"Android 4.3 (Jelly Bean)",
         "Price":"IDR 2500000",
         "Battery":"3200 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"3 MP"
         },
@@ -98,10 +110,13 @@
         "Berat":"168 g",
         "Tebal":"8.3 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 800",
+        "Network":"GSM / CDMA / HSPA / EVDO / LTE",
+        "Dualsim":1
      },
-     "Galaxy Note 2":{
-        "CPU":"Exynos 4412",
+     "Galaxy Note 2":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Mali-400MP4",
         "Storage":"32 GB",
@@ -110,7 +125,7 @@
         "OS":"Android 4.1.1 (Jelly Bean)",
         "Price":"IDR 2278000",
         "Battery":"3100 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.9 MP"
         },
@@ -118,10 +133,13 @@
         "Berat":"183 g",
         "Tebal":"9.4 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 4412",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy Note 1":{
-        "CPU":"Exynos",
+     "Galaxy Note 1":{  
+        "CPU":"Quad-core",
         "RAM":"1 GB",
         "GPU":"Mali-400",
         "Storage":"32 GB",
@@ -130,7 +148,7 @@
         "OS":"Android 2.3.5 (Gingerbread)",
         "Price":"IDR 1500000",
         "Battery":"2500 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"Dual 8 MP",
            "Secondary":"2 MP"
         },
@@ -138,10 +156,13 @@
         "Berat":"178 g",
         "Tebal":"9.7 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy S8+":{
-        "CPU":"Snapdragon 835",
+     "Galaxy S8+":{  
+        "CPU":"Octa-core",
         "RAM":"6 GB",
         "GPU":"Adreno 540",
         "Storage":"128 GB",
@@ -150,7 +171,7 @@
         "OS":"Android 7.0 (Nougat)",
         "Price":"IDR 9950000",
         "Battery":"3500 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
@@ -158,10 +179,13 @@
         "Berat":"173 g",
         "Tebal":"8.1 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 835",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy S8":{
-        "CPU":"Snapdragon 835",
+     "Galaxy S8":{  
+        "CPU":"Octa-core",
         "RAM":"6 GB",
         "GPU":"Adreno 540",
         "Storage":"128 GB",
@@ -170,7 +194,7 @@
         "OS":"Android 7.0 (Nougat)",
         "Price":"IDR 8950000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
@@ -178,10 +202,13 @@
         "Berat":"155 g",
         "Tebal":"8 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 835",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy S7 Edge":{
-        "CPU":"Snapdragon 820",
+     "Galaxy S7 Edge":{  
+        "CPU":"Quad-core",
         "RAM":"4 GB",
         "GPU":"Adreno 530",
         "Storage":"64 GB",
@@ -190,7 +217,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 6500000",
         "Battery":"3600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -198,10 +225,13 @@
         "Berat":"157 g",
         "Tebal":"7.7 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 820",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy S7":{
-        "CPU":"Snapdragon 820",
+     "Galaxy S7":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 530",
         "Storage":"64 GB",
@@ -210,7 +240,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 5700000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -218,10 +248,13 @@
         "Berat":"152 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 820",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy S6 Edge":{
-        "CPU":"Exynos 7420 Octa",
+     "Galaxy S6 Edge":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T760MP8",
         "Storage":"64 GB",
@@ -230,7 +263,7 @@
         "OS":"Android 5.0.2 (Lollipop)",
         "Price":"IDR 4200000",
         "Battery":"2600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
@@ -238,10 +271,13 @@
         "Berat":"132 g",
         "Tebal":"7 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7420 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy S6":{
-        "CPU":"Exynos 7420 Octa",
+     "Galaxy S6":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T760MP8",
         "Storage":"64 GB",
@@ -250,7 +286,7 @@
         "OS":"Android 5.0.2 (Lollipop)",
         "Price":"IDR 3000000",
         "Battery":"2550 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
@@ -258,10 +294,13 @@
         "Berat":"138 g",
         "Tebal":"6.8 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7420 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy S5":{
-        "CPU":"Snapdragon 801",
+     "Galaxy S5":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
         "Storage":"32 GB",
@@ -270,7 +309,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 1100000",
         "Battery":"2800 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"2 MP"
         },
@@ -278,10 +317,13 @@
         "Berat":"145 g",
         "Tebal":"8.1 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 801",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy S4":{
-        "CPU":"Exynos 5410 Octa",
+     "Galaxy S4":{  
+        "CPU":"Octa-core",
         "RAM":"2 GB",
         "GPU":"PowerVR SGX544MP34",
         "Storage":"32 GB",
@@ -290,7 +332,7 @@
         "OS":"Android 4.2.2 (Jelly Bean)",
         "Price":"IDR 1450000",
         "Battery":"2600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -298,10 +340,13 @@
         "Berat":"130 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 5410 Octa",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Galaxy S3":{
-        "CPU":"Exynos 4412 Quad",
+     "Galaxy S3":{  
+        "CPU":"Quad-core",
         "RAM":"1 GB",
         "GPU":"Mali-400MP4",
         "Storage":"32 GB",
@@ -310,7 +355,7 @@
         "OS":"Android 4.0.4 (Ice Cream Sandwich)",
         "Price":"IDR 860000",
         "Battery":"2100 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.9 MP"
         },
@@ -318,10 +363,13 @@
         "Berat":"133 g",
         "Tebal":"8.6 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 4412 Quad",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Galaxy S2":{
-        "CPU":"Exynos 4210 Dual",
+     "Galaxy S2":{  
+        "CPU":"Dual-core",
         "RAM":"1 GB",
         "GPU":"Mali-400MP4",
         "Storage":"32 GB",
@@ -330,7 +378,7 @@
         "OS":"Android 2.3.4 (Gingerbread)",
         "Price":"IDR 2000000",
         "Battery":"1650 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -338,10 +386,13 @@
         "Berat":"116 g",
         "Tebal":"8.5 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 4210 Dual",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Galaxy A3":{
-        "CPU":"Exynos 7870 Octa",
+     "Galaxy A3":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Mali-T830 MP1",
         "Storage":"16 GB",
@@ -350,7 +401,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 2965800",
         "Battery":"2350 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -358,10 +409,13 @@
         "Berat":"138 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7870 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy A5":{
-        "CPU":"Exynos 7880 Octa",
+     "Galaxy A5":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Mali-T830MP3",
         "Storage":"32 GB",
@@ -370,7 +424,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 4345000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
@@ -378,10 +432,13 @@
         "Berat":"157 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7880 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy A7":{
-        "CPU":"Exynos 7880 Octa",
+     "Galaxy A7":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T830MP3",
         "Storage":"32 GB",
@@ -390,7 +447,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 5215800",
         "Battery":"3600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
@@ -398,10 +455,13 @@
         "Berat":"186 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7880 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy A8":{
-        "CPU":"Exynos 7420 Octa",
+     "Galaxy A8":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T760MP8",
         "Storage":"32 GB",
@@ -410,7 +470,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 6200000",
         "Battery":"3300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
@@ -418,10 +478,13 @@
         "Berat":"182 g",
         "Tebal":"7.2 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7420 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Galaxy J2 Prime":{
-        "CPU":"Mediatek MT6737T",
+     "Galaxy J2 Prime":{  
+        "CPU":"Quad-core",
         "RAM":"1.5 GB",
         "GPU":"Mali-T720MP2",
         "Storage":"8 GB",
@@ -430,7 +493,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 1143000",
         "Battery":"2600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"5 MP"
         },
@@ -438,10 +501,13 @@
         "Berat":"160 g",
         "Tebal":"8.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "chipset":"MT6737T",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy J7 Prime":{
-        "CPU":"Exynos 7870 Octa",
+     "Galaxy J7 Prime":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T830 MP1",
         "Storage":"32 GB",
@@ -450,7 +516,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 2812000",
         "Battery":"3300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -458,10 +524,13 @@
         "Berat":"167 g",
         "Tebal":"8 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Exynos 7870 Octa",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy C5":{
-        "CPU":"Snapdragon 617",
+     "Galaxy C5":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 405",
         "Storage":"64 GB",
@@ -470,7 +539,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 5780000",
         "Battery":"2600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
@@ -478,10 +547,13 @@
         "Berat":"143 g",
         "Tebal":"6.7 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 617",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Galaxy C7":{
-        "CPU":"Snapdragon 625",
+     "Galaxy C7":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
         "Storage":"64 GB",
@@ -490,7 +562,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 6400000",
         "Battery":"3300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
@@ -498,12 +570,15 @@
         "Berat":"169 g",
         "Tebal":"6.8 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 625",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      }
   },
-  "Asus":{
-     "Asus Zenfone 4 Pro ZS551KL":{
-        "CPU":"Snapdragon 835",
+  "Asus":{  
+     "Asus Zenfone 4 Pro ZS551KL":{  
+        "CPU":"Octa-core",
         "RAM":"6 GB",
         "GPU":"Adreno 540",
         "Storage":"128 GB",
@@ -512,7 +587,7 @@
         "OS":"Android 7.1.1 (Nougat)",
         "Price":"IDR 13598336",
         "Battery":"3600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"Dual 12 MP",
            "Secondary":"8 MP"
         },
@@ -520,10 +595,13 @@
         "Berat":"175 g",
         "Tebal":"7.6 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 835",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 4 Selfie Lite ZB553KL":{
-        "CPU":"Snapdragon 425",
+     "Asus Zenfone 4 Selfie Lite ZB553KL":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 308",
         "Storage":"32 GB",
@@ -532,7 +610,7 @@
         "OS":"Android 7.0 (Nougat)",
         "Price":"IDR 2400000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"13 MP"
         },
@@ -540,10 +618,13 @@
         "Berat":"144 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 425",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone Live ZB501KL":{
-        "CPU":"Snapdragon 410",
+     "Asus Zenfone Live ZB501KL":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
         "Storage":"32 GB",
@@ -552,7 +633,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 2415000",
         "Battery":"2650 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -560,10 +641,13 @@
         "Berat":"120 g",
         "Tebal":"8.0 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 410",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 3s Max ZC521TL":{
-        "CPU":"MT6750",
+     "Asus Zenfone 3s Max ZC521TL":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Mali-T860MP2",
         "Storage":"32 GB",
@@ -572,7 +656,7 @@
         "OS":"Android 7.0 (Nougat)",
         "Price":"IDR 3700000",
         "Battery":"5000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -580,10 +664,13 @@
         "Berat":"175 g",
         "Tebal":"8.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"MT6750",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone AR ZS571KL":{
-        "CPU":"Snapdragon 821",
+     "Asus Zenfone AR ZS571KL":{  
+        "CPU":"Quad-core",
         "RAM":"8 GB",
         "GPU":"Adreno 530",
         "Storage":"256 GB",
@@ -592,7 +679,7 @@
         "OS":"Android 7.0 (Nougat)",
         "Price":"IDR 12880000",
         "Battery":"3300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"23 MP",
            "Secondary":"8 MP"
         },
@@ -600,10 +687,13 @@
         "Berat":"170 g",
         "Tebal":"9.0 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 821",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 3 Zoom ZE553KL":{
-        "CPU":"Snapdragon 625",
+     "Asus Zenfone 3 Zoom ZE553KL":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
         "Storage":"128 GB",
@@ -612,7 +702,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 8855000",
         "Battery":"5000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"13 MP"
         },
@@ -620,10 +710,13 @@
         "Berat":"170 g",
         "Tebal":"8.0 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 625",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 3 Deluxe 5.5 ZS550KL":{
-        "CPU":"Snapdragon 625",
+     "Asus Zenfone 3 Deluxe 5.5 ZS550KL":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
         "Storage":"64 GB",
@@ -632,7 +725,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 7084000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
@@ -640,10 +733,13 @@
         "Berat":"151 g",
         "Tebal":"7.8 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":" Snapdragon 625",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 3 Laser ZC551KL":{
-        "CPU":"Snapdragon 430",
+     "Asus Zenfone 3 Laser ZC551KL":{  
+        "CPU":"Octa-core",
         "RAM":"4 GB",
         "GPU":"Adreno 505",
         "Storage":"64 GB",
@@ -652,7 +748,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 4347000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -660,10 +756,13 @@
         "Berat":"150 g",
         "Tebal":"7.9 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 430",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone Pegasus 3":{
-        "CPU":"MT6737",
+     "Asus Zenfone Pegasus 3":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Mali-T720MP2",
         "Storage":"32 GB",
@@ -672,7 +771,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 3379000",
         "Battery":"4100 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -680,10 +779,13 @@
         "Berat":"158.4 g",
         "Tebal":"8.6 mm",
         "Fingerprint Reader":1,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"MT6737",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone Max ZC550KL":{
-        "CPU":"Snapdragon 615",
+     "Asus Zenfone Max ZC550KL":{  
+        "CPU":"Quad-core",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
         "Storage":"32 GB",
@@ -692,7 +794,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 2736000",
         "Battery":"5000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -700,10 +802,13 @@
         "Berat":"202 g",
         "Tebal":"10.6 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 615",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone Go ZB450KL":{
-        "CPU":"Snapdragon 410",
+     "Asus Zenfone Go ZB450KL":{  
+        "CPU":"Quad-core",
         "RAM":"1 GB",
         "GPU":"Adreno 306",
         "Storage":"8 GB",
@@ -712,7 +817,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 1770500",
         "Battery":"2070 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -720,10 +825,13 @@
         "Berat":"135 g",
         "Tebal":"11.2 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 410",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 2 Deluxe ZE551ML":{
-        "CPU":"Intel Atom Z3580",
+     "Asus Zenfone 2 Deluxe ZE551ML":{  
+        "CPU":"Quad-core",
         "RAM":"4 GB",
         "GPU":"PowerVR G6430",
         "Storage":"128 GB",
@@ -732,7 +840,7 @@
         "OS":"Android 5.0 (Lollipop)",
         "Price":"IDR 8047000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -740,10 +848,13 @@
         "Berat":"170 g",
         "Tebal":"10.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z3580",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone 2 Laser ZE601KL":{
-        "CPU":"Snapdragon 616",
+     "Asus Zenfone 2 Laser ZE601KL":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
         "Storage":"32 GB",
@@ -752,7 +863,7 @@
         "OS":"Android 5.0 (Lollipop)",
         "Price":"IDR 4828000",
         "Battery":"3000 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -760,10 +871,13 @@
         "Berat":"190 g",
         "Tebal":"10.6 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 616",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Pegasus 2 Plus":{
-        "CPU":"Snapdragon 615",
+     "Asus Pegasus 2 Plus":{  
+        "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
         "Storage":"32 GB",
@@ -772,7 +886,7 @@
         "OS":"Android 5.1.1 (Lollipop)",
         "Price":"IDR 4828000",
         "Battery":"3030 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -780,10 +894,13 @@
         "Berat":"156 g",
         "Tebal":"8.1 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 615",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":1
      },
-     "Asus Zenfone C ZC451CG":{
-        "CPU":"Intel Atom Z2520",
+     "Asus Zenfone C ZC451CG":{  
+        "CPU":"Dual-core",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"8 GB",
@@ -792,7 +909,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 1448000",
         "Battery":"2160 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
@@ -800,10 +917,13 @@
         "Berat":"150 g",
         "Tebal":"10.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2520",
+        "Network":"GSM / HSPA",
+        "Dualsim":1
      },
-     "Asus Zenfone 5 Lite A502CG":{
-        "CPU":"Intel Atom Z2520",
+     "Asus Zenfone 5 Lite A502CG":{  
+        "CPU":"Dual-core",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"1 GB",
@@ -812,7 +932,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 1609000",
         "Battery":"2500 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"VGA"
         },
@@ -820,10 +940,13 @@
         "Berat":"160 g",
         "Tebal":"10.8 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2520",
+        "Network":"GSM / HSPA",
+        "Dualsim":1
      },
-     "Asus PadFone X":{
-        "CPU":"Snapdragon 800",
+     "Asus PadFone X":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
         "Storage":"16 GB",
@@ -832,7 +955,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 5151000",
         "Battery":"2300 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -840,10 +963,13 @@
         "Berat":"150 g",
         "Tebal":"10.0 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 800",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Asus PadFone S":{
-        "CPU":"Snapdragon 801",
+     "Asus PadFone S":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
         "Storage":"1 GB",
@@ -852,7 +978,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 1609000",
         "Battery":"2500 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -860,10 +986,13 @@
         "Berat":"160 g",
         "Tebal":"10.8 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 801",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Asus Zenfone 6 A601CG":{
-        "CPU":"Intel Atom Z2560",
+     "Asus Zenfone 6 A601CG":{  
+        "CPU":"Dual-core",
         "RAM":"2 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"32 GB",
@@ -872,7 +1001,7 @@
         "OS":"Android 4.3 (Jelly Bean)",
         "Price":"IDR 3219000",
         "Battery":"3230 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -880,10 +1009,13 @@
         "Berat":"196 g",
         "Tebal":"9.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2560",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Asus Zenfone 4 (2014)":{
-        "CPU":"Intel Atom Z2520",
+     "Asus Zenfone 4 (2014)":{  
+        "CPU":"Dual-core",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"8 GB",
@@ -892,7 +1024,7 @@
         "OS":"Android 4.3 (Jelly Bean)",
         "Price":"IDR 2092000",
         "Battery":"1600 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
@@ -900,10 +1032,13 @@
         "Berat":"115 g",
         "Tebal":"9.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2520",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Asus PadFone Infinity 2":{
-        "CPU":"Snapdragon 800",
+     "Asus PadFone Infinity 2":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
         "Storage":"32 GB",
@@ -912,7 +1047,7 @@
         "OS":"Android 4.2.2 (Jelly Bean)",
         "Price":"IDR 11751000",
         "Battery":"2400 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -920,10 +1055,13 @@
         "Berat":"145 g",
         "Tebal":"8.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 800",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Asus PadFone mini 4G (Intel)":{
-        "CPU":"Intel Atom Z2560",
+     "Asus PadFone mini 4G (Intel)":{  
+        "CPU":"Dual-core",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"8 GB",
@@ -932,7 +1070,7 @@
         "OS":"Android 4.4.2 (KitKat)",
         "Price":"IDR 4829000",
         "Battery":"1170 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"5 MP",
            "Secondary":"2 MP"
         },
@@ -940,10 +1078,13 @@
         "Berat":"150 g",
         "Tebal":"12.5 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2560",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Asus Fonepad Note FHD6":{
-        "CPU":"Intel Atom Z2580",
+     "Asus Fonepad Note FHD6":{  
+        "CPU":"Dual-core",
         "RAM":"2 GB",
         "GPU":"PowerVR SGX544MP2",
         "Storage":"32 GB",
@@ -952,7 +1093,7 @@
         "OS":"Android 4.2 (Jelly Bean)",
         "Price":"IDR 5634000",
         "Battery":"3200 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -960,10 +1101,13 @@
         "Berat":"210 g",
         "Tebal":"10.3 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Intel Atom Z2580",
+        "Network":"GSM / HSPA",
+        "Dualsim":0
      },
-     "Asus PadFone Infinity":{
-        "CPU":"Snapdragon 600",
+     "Asus PadFone Infinity":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 320",
         "Storage":"64 GB",
@@ -972,7 +1116,7 @@
         "OS":"Android 4.1.2 (Jelly Bean)",
         "Price":"IDR 16098000",
         "Battery":"2400 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -980,10 +1124,13 @@
         "Berat":"141 g",
         "Tebal":"8.9 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon 600",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      },
-     "Asus Google Nexus 7 (2013)":{
-        "CPU":"Snapdragon S4Pro",
+     "Asus Google Nexus 7 (2013)":{  
+        "CPU":"Quad-core",
         "RAM":"2 GB",
         "GPU":"Adreno 320",
         "Storage":"32 GB",
@@ -992,7 +1139,7 @@
         "OS":"Android 4.3 (Jelly Bean)",
         "Price":"IDR 3702000",
         "Battery":"3950 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"5 MP",
            "Secondary":"1.2 MP"
         },
@@ -1000,14 +1147,17 @@
         "Berat":"290 g",
         "Tebal":"8.7 mm",
         "Fingerprint Reader":0,
-        "Misc":""
+        "Misc":"",
+        "Chipset":"Snapdragon S4Pro",
+        "Network":"GSM / HSPA / LTE",
+        "Dualsim":0
      }
   },
-  "OnePlus":{
-     "OnePlus One":{
+  "OnePlus":{  
+     "OnePlus One":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1017,7 +1167,7 @@
         "OS":" Android 4.4.2 (KitKat), upgradable to 6.0.1 (Marshmallow)",
         "Price":"IDR 4000000",
         "Battery":"Non-removable Li-Po 3100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1027,10 +1177,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "OnePlus 2":{
+     "OnePlus 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8994 Snapdragon 810",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)",
         "RAM":"3 GB, 4 GB",
         "GPU":"Adreno 430",
@@ -1040,7 +1190,7 @@
         "OS":" Android 5.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
         "Price":"IDR 4800000",
         "Battery":"Non-removable Li-Po 3300 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1050,10 +1200,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "OnePlus 3":{
+     "OnePlus 3":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1063,7 +1213,7 @@
         "OS":"Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
         "Price":"IDR 6400000",
         "Battery":"Non-removable Li-Ion 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
@@ -1073,10 +1223,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "OnePlus 3T":{
+     "OnePlus 3T":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1086,7 +1236,7 @@
         "OS":"Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)",
         "Price":"IDR 7000000",
         "Battery":"Non-removable Li-Ion 3400 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
@@ -1096,10 +1246,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "OnePlus 5":{
+     "OnePlus 5":{  
         "Network":"GSM/HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1109,7 +1259,7 @@
         "OS":"Android 7.1.1 (Nougat)",
         "Price":"IDR 8000000",
         "Battery":"Non-removable Li-Po 3300 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Dual":"16 MP + 20 MP",
            "Secondary":"16 MP"
         },
@@ -1119,10 +1269,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "OnePlus 5T":{
+     "OnePlus 5T":{  
         "Network":"GSM/HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1132,7 +1282,7 @@
         "OS":"Android 7.1.1 (Nougat)",
         "Price":"IDR 8000000",
         "Battery":"Non-removable Li-Po 3300 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Dual":"16 MP + 20 MP",
            "Secondary":"16 MP"
         },
@@ -1142,10 +1292,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "OnePlus X":{
+     "OnePlus X":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm Snapdragon 801",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 2.3 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1155,7 +1305,7 @@
         "OS":"Android 5.1.1 (Lollipop), upgradable to 6.0.1 (Marshmallow)",
         "Price":"IDR 4300000",
         "Battery":"Non-removable Li-Po 2525 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -1166,11 +1316,11 @@
         "Misc":""
      }
   },
-  "Iphone":{
-     "Iphone 4":{
+  "Iphone":{  
+     "Iphone 4":{  
         "Network":"GSM/HSPA",
         "Chipset":"Apple A4",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"1.0 GHz Cortex-A8",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX535",
@@ -1180,7 +1330,7 @@
         "OS":"iOS 4, upgradable to iOS 7.1.2",
         "Price":"IDR 3200000",
         "Battery":"1420 mAh",
-        "Camera":{
+        "Camera":{  
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
@@ -1190,10 +1340,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Iphone 4s":{
+     "Iphone 4s":{  
         "Network":"GSM/CDMA/EVDO/HSPA",
         "Chipset":"Apple A5",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.0 GHz Cortex-A9",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX543MP2",
@@ -1203,7 +1353,7 @@
         "OS":"iOS 5, upgradable to iOS 9.3.5",
         "Price":"IDR 3050000",
         "Battery":"Non-removable Li-Po 1432 mAh battery (5.3 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"VGA"
         },
@@ -1213,10 +1363,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Iphone 5":{
+     "Iphone 5":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A6",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
@@ -1226,7 +1376,7 @@
         "OS":"iOS 6, upgradable to iOS 10.3.3",
         "Price":"IDR 5450000",
         "Battery":"Non-removable Li-Po 1440 mAh battery (5.45 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -1236,10 +1386,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Iphone 5c":{
+     "Iphone 5c":{  
         "Network":"GSM/CDMA/HSPA/LTE",
         "Chipset":"Apple A6",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
@@ -1249,7 +1399,7 @@
         "OS":"iOS 7, upgradable to iOS 10.3.3",
         "Price":"IDR 4800000",
         "Battery":"Non-removable Li-Po 1510 mAh battery (5.73 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -1259,10 +1409,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Iphone 5s":{
+     "Iphone 5s":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A7",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.3 GHz Cyclone (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR G6430 (quad-core graphics)",
@@ -1272,7 +1422,7 @@
         "OS":"iOS 7, upgradable to iOS 11.2",
         "Price":"IDR 5300000",
         "Battery":"Non-removable Li-Po 1560 mAh battery (5.92 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -1282,10 +1432,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone SE":{
+     "Iphone SE":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1295,7 +1445,7 @@
         "OS":"iOS 9.3.2, upgradable to iOS 11.2",
         "Price":"IDR 5500000",
         "Battery":"Non-removable Li-Po 1624 mAh battery (6.21 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"1.2 MP"
         },
@@ -1305,10 +1455,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6":{
+     "Iphone 6":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A8",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
@@ -1318,7 +1468,7 @@
         "OS":"iOS 8, upgradable to iOS 11.2",
         "Price":"IDR 6400000",
         "Battery":"Non-removable Li-Po 1810 mAh battery (6.9 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -1328,10 +1478,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6s":{
+     "Iphone 6s":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1341,7 +1491,7 @@
         "OS":"iOS 9, upgradable to iOS 11.2",
         "Price":"IDR 8100000",
         "Battery":"Non-removable Li-Ion 1715 mAh battery (6.91 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -1351,10 +1501,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6 plus":{
+     "Iphone 6 plus":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A8",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
@@ -1364,7 +1514,7 @@
         "OS":"iOS 8, upgradable to iOS 11.2",
         "Price":"IDR 8330000",
         "Battery":"Non-removable Li-Po 2915 mAh battery (11.1 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
@@ -1374,10 +1524,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6s plus":{
+     "Iphone 6s plus":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1387,7 +1537,7 @@
         "OS":"iOS 9, upgradable to iOS 11.2",
         "Price":"IDR 10000000",
         "Battery":"Non-removable Li-Ion 2750 mAh battery (10.45 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -1397,10 +1547,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 7":{
+     "Iphone 7":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A10 Fusion",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"2 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1410,7 +1560,7 @@
         "OS":"iOS 10.0.1, upgradable to iOS 11.2",
         "Price":"IDR 9800000",
         "Battery":"Non-removable Li-Ion 1960 mAh battery (7.45 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
@@ -1420,10 +1570,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 7 plus":{
+     "Iphone 7 plus":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A10 Fusion",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"3 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1433,7 +1583,7 @@
         "OS":"iOS 10.0.1, upgradable to iOS 11.2",
         "Price":"IDR 13300000",
         "Battery":"Non-removable Li-Ion 2900 mAh battery (11.1 Wh)",
-        "Camera":{
+        "Camera":{  
            "Dual":"12 MP + 12 MP",
            "Secondary":"7 MP"
         },
@@ -1443,10 +1593,10 @@
         "Fingerprint Reader":1,
         "Misc":"Dual Camera"
      },
-     "Iphone 8":{
+     "Iphone 8":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"2 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1456,7 +1606,7 @@
         "OS":"iOS 11, upgradable to iOS 11.2",
         "Price":"IDR 12800000",
         "Battery":"Non-removable Li-Ion 1821 mAh battery (6.96 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
@@ -1466,10 +1616,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 8 plus":{
+     "Iphone 8 plus":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1479,7 +1629,7 @@
         "OS":"iOS 11, upgradable to iOS 11.2",
         "Price":"IDR 14500000",
         "Battery":"Non-removable Li-Ion 2691 mAh battery (10.28 Wh)",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
@@ -1489,10 +1639,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone X":{
+     "Iphone X":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1502,7 +1652,7 @@
         "OS":"iOS 11.1",
         "Price":"IDR 20000000",
         "Battery":"Non-removable Li-Ion 2716 mAh battery (10.35 Wh)",
-        "Camera":{
+        "Camera":{  
            "Dual":"12 MP + 12 MP",
            "Secondary":"7 MP"
         },
@@ -1513,11 +1663,11 @@
         "Misc":"Face detection"
      }
   },
-  "Xiaomi":{
-     "Xiaomi Redmi":{
+  "Xiaomi":{  
+     "Xiaomi Redmi":{  
         "Network":"GSM/HSPA",
         "Chipset":"Mediatek MT6589T",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.5 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
@@ -1527,7 +1677,7 @@
         "OS":" Android 4.2 (Jelly Bean)",
         "Price":"IDR 1600000",
         "Battery":"Removable Li-Po 2000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.3 MP"
         },
@@ -1537,10 +1687,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi 1s":{
+     "Xiaomi Redmi 1s":{  
         "Network":"GSM/HSPA",
         "Chipset":"Qualcomm MSM8228 Snapdragon 400",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.6 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"Adreno 305",
@@ -1550,7 +1700,7 @@
         "OS":" Android 4.2 (Jelly Bean), upgradable to 4.4 (KitKat)",
         "Price":"IDR 1400000",
         "Battery":"Removable Li-Ion 2000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.6 MP"
         },
@@ -1560,10 +1710,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi 3":{
+     "Xiaomi Mi 3":{  
         "Network":"GSM/HSPA",
         "Chipset":"Qualcomm MSM8274AB Snapdragon 800",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Quad-core 2.3 GHz Krait 400",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
@@ -1573,7 +1723,7 @@
         "OS":" Android 4.3 (Jelly Bean), upgradable to 4.4.2 (KitKat), planned upgrade to 6.0 (Marshmallow)",
         "Price":"IDR 3200000",
         "Battery":"Non-removable Li-Ion 3050 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
@@ -1583,10 +1733,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi Note":{
+     "Xiaomi Redmi Note":{  
         "Network":"GSM/HSPA",
         "Chipset":" Mediatek MT6592",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 1.4/1.7 GHz Cortex-A7",
         "RAM":"1/2 GB",
         "GPU":"Mali-450MP4",
@@ -1596,7 +1746,7 @@
         "OS":" Android 4.2 (Jelly Bean)",
         "Price":"IDR 1900000",
         "Battery":"Removable Li-Po 3100 mAh / 3200 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1606,10 +1756,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi 4":{
+     "Xiaomi Mi 4":{  
         "Network":"GSM/CDMA/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dual Sim":0,
+        "Dualsim":0,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"2/3 GB",
         "GPU":"Adreno 330",
@@ -1619,7 +1769,7 @@
         "OS":"Android 4.4.3 (KitKat), upgradable to 6.0.1 (Marshmallow)",
         "Price":"IDR 3600000",
         "Battery":"Non-removable Li-Ion 3080 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
@@ -1629,10 +1779,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi 4s":{
+     "Xiaomi Mi 4s":{  
         "Network":"GSM/CDMA/HSPA/LTE",
         "Chipset":"Qualcomm MSM8992 Snapdragon 808",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
         "RAM":"3 GB",
         "GPU":"Adreno 418",
@@ -1642,7 +1792,7 @@
         "OS":"Android 5.1 (Lollipop), upgradable to 7.0 (Nougat)",
         "Price":"IDR 3500000",
         "Battery":"Non-removable Li-Ion 3260 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1652,10 +1802,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 2":{
+     "Xiaomi Redmi 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"1/2 GB",
         "GPU":"Adreno 306",
@@ -1665,7 +1815,7 @@
         "OS":"Android 4.4.4 (KitKat)",
         "Price":"IDR 2000000",
         "Battery":"Removable Li-Po 2200 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -1675,10 +1825,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi Note":{
+     "Xiaomi Mi Note":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1688,7 +1838,7 @@
         "OS":"Android 4.4.4 (KitKat), planned upgrade to 6.0 (Marshmallow)",
         "Price":"IDR 3000000",
         "Battery":"Non-removable Li-Ion 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"4 MP"
         },
@@ -1698,10 +1848,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi 2 Prime":{
+     "Xiaomi Redmi 2 Prime":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1711,7 +1861,7 @@
         "OS":"Android 4.4.4 (KitKat),  upgradable to 5.1.1 (Lollipop)",
         "Price":"IDR 1900000",
         "Battery":"Removable Li-Po 2200 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -1721,10 +1871,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi Note Pro":{
+     "Xiaomi Mi Note Pro":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8994 Snapdragon 810",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
         "RAM":"4 GB",
         "GPU":"Adreno 330",
@@ -1734,7 +1884,7 @@
         "OS":"Android 5.0.1 (Lollipop), upgradable to 7.0 (Nougat)",
         "Price":"IDR 3900000",
         "Battery":"Non-removable Li-Ion 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"4 MP"
         },
@@ -1744,10 +1894,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi 2 Pro":{
+     "Xiaomi Redmi 2 Pro":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1757,7 +1907,7 @@
         "OS":"Android 4.4.4 (KitKat)",
         "Price":"IDR 1900000",
         "Battery":"Removable Li-Po 2200 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
@@ -1767,10 +1917,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi Max":{
+     "Xiaomi Mi Max":{  
         "Network":"GSM/CDMA/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8956 Snapdragon 650",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72), Octa-core (4x1.4 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
         "RAM":"2/3/4 GB",
         "GPU":"Adreno 510",
@@ -1780,7 +1930,7 @@
         "OS":"Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)",
         "Price":"IDR 2700000",
         "Battery":"Non-removable Li-Ion 4850 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
@@ -1790,10 +1940,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi Note 2":{
+     "Xiaomi Redmi Note 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Mediatek MT6795 Helio X10",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"PowerVR G62006",
@@ -1803,7 +1953,7 @@
         "OS":"Android 5.0 (Lollipop)",
         "Price":"IDR 2500000",
         "Battery":"Removable Li-Po 3060 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1813,10 +1963,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Mi 5":{
+     "Xiaomi Mi 5":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x1.8 GHz Kryo & 2x1.36 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -1826,7 +1976,7 @@
         "OS":" Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)",
         "Price":"IDR 3800000",
         "Battery":"Non-removable Li-Po 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
@@ -1836,10 +1986,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi 5 Prime":{
+     "Xiaomi Mi 5 Prime":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -1849,7 +1999,7 @@
         "OS":" Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)",
         "Price":"IDR 3800000",
         "Battery":"Non-removable Li-Po 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
@@ -1859,10 +2009,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi 5 Pro":{
+     "Xiaomi Mi 5 Pro":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"4 GB",
         "GPU":"Adreno 530",
@@ -1872,7 +2022,7 @@
         "OS":" Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)",
         "Price":"IDR 3800000",
         "Battery":"Non-removable Li-Po 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
@@ -1882,10 +2032,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 3":{
+     "Xiaomi Redmi 3":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"2 GB",
         "GPU":"Adreno 405",
@@ -1895,7 +2045,7 @@
         "OS":"Android 5.1 (Lollipop)",
         "Price":"IDR 2500000",
         "Battery":"Removable Li-Ion 4100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1905,10 +2055,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi 3 Pro":{
+     "Xiaomi Redmi 3 Pro":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
@@ -1918,7 +2068,7 @@
         "OS":"Android 5.1 (Lollipop)",
         "Price":"IDR 3900000",
         "Battery":"Removable Li-Ion 4100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1928,10 +2078,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 3x":{
+     "Xiaomi Redmi 3x":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8937 Snapdragon 430",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 1.4 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 505",
@@ -1941,7 +2091,7 @@
         "OS":"Android 6.0.1 (Marshmallow)",
         "Price":"IDR 2700000",
         "Battery":"Removable Li-Ion 4100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -1951,10 +2101,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi Note 2":{
+     "Xiaomi Mi Note 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -1964,7 +2114,7 @@
         "OS":"Android 6.0 (Marshmallow)",
         "Price":"IDR 7000000",
         "Battery":"Non-removable Li-Ion 4070 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"22.5 MP",
            "Secondary":"8 MP"
         },
@@ -1974,10 +2124,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi Mix":{
+     "Xiaomi Mi Mix":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -1987,7 +2137,7 @@
         "OS":"Android 6.0 (Marshmallow), planned upgrade to 7.0 (Nougat)",
         "Price":"IDR 7800000",
         "Battery":"Non-removable Li-Ion 4400 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
@@ -1997,10 +2147,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 4 Prime":{
+     "Xiaomi Redmi 4 Prime":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3 GB",
         "GPU":"Adreno 506",
@@ -2010,7 +2160,7 @@
         "OS":" Android 6.0.1 (Marshmallow)",
         "Price":"IDR 2500000",
         "Battery":"Removable Li-Ion 4100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -2020,10 +2170,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi 6":{
+     "Xiaomi Mi 6":{  
         "Network":"GSM//HSPA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 540",
@@ -2033,7 +2183,7 @@
         "OS":" Android 7.1.1 (Nougat)",
         "Price":"IDR 5700000",
         "Battery":"Non-removable Li-Po 3350 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
@@ -2043,10 +2193,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi A1":{
+     "Xiaomi Mi A1":{  
         "Network":"GSM//HSPA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
@@ -2056,7 +2206,7 @@
         "OS":"Android 7.1.2 (Nougat), planned upgrade to Android 8.0 (Oreo); Android One",
         "Price":"IDR 3100000",
         "Battery":"Non-removable Li-Ion 3080 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"Dual 12 MP",
            "Secondary":"5 MP"
         },
@@ -2066,10 +2216,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Mi Note 3":{
+     "Xiaomi Mi Note 3":{  
         "Network":"GSM//HSPA/CDMA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8956 Plus Snapdragon 660",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
         "RAM":"6 GB",
         "GPU":"Adreno 512",
@@ -2079,7 +2229,7 @@
         "OS":"Android 7.1 (Nougat)",
         "Price":"IDR 6500000",
         "Battery":"Removable Li-Ion 3500 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"16 MP"
         },
@@ -2089,10 +2239,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 5":{
+     "Xiaomi Redmi 5":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm Snapdragon 450",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 506",
@@ -2102,7 +2252,7 @@
         "OS":" Android 7.1.2 (Nougat)",
         "Price":"IDR 2500000",
         "Battery":"Removable Li-Ion 3300 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
@@ -2112,10 +2262,10 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Xiaomi Redmi 5A":{
+     "Xiaomi Redmi 5A":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8917 Snapdragon 425",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Quad-core 1.4 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 308",
@@ -2125,7 +2275,7 @@
         "OS":" Android 7.1.2 (Nougat)",
         "Price":"IDR 1700000",
         "Battery":"Removable Li-Ion 3000 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
@@ -2135,10 +2285,10 @@
         "Fingerprint Reader":0,
         "Misc":""
      },
-     "Xiaomi Redmi Note 4X":{
+     "Xiaomi Redmi Note 4X":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dual Sim":1,
+        "Dualsim":1,
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3/4 GB",
         "GPU":"Adreno 506",
@@ -2148,7 +2298,7 @@
         "OS":"Android 6.0 (Marshmallow), upgradable to 7.0 (Nougat)",
         "Price":"IDR 2800000",
         "Battery":"Removable Li-Po 4100 mAh battery",
-        "Camera":{
+        "Camera":{  
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },

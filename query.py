@@ -174,7 +174,51 @@ for brand in data:
 					cocok = False
 					break
 			if att == "RAM":
-				if int(data[brand][phone]["RAM"][0:1]) != int(exdic["RAM"][0:1]):
+				queryRAMToken = exdic["RAM"].lower().split()
+				queryRAM = 0
+				if queryRAMToken[1] == "mb":
+					queryRAM = int(queryRAMToken[0])
+				else:
+					queryRAM = int(queryRAMToken[0])*1000
+				dataRAMToken = data[brand][phone]["RAM"].lower().split()
+				dataRAM = 0
+				if dataRAMToken[1] == "mb":
+					dataRAM = int(dataRAMToken[0])
+				else:
+					dataRAM = int(dataRAMToken[0])*1000
+				if dataRAM != queryRAM:
+					cocok = False
+					break
+			if att == "RAMMax":
+				queryRAMToken = exdic["RAM"].lower().split()
+				queryRAM = 0
+				if queryRAMToken[1] == "mb":
+					queryRAM = int(queryRAMToken[0])
+				else:
+					queryRAM = int(queryRAMToken[0])*1000
+				dataRAMToken = data[brand][phone]["RAM"].lower().split()
+				dataRAM = 0
+				if dataRAMToken[1] == "mb":
+					dataRAM = int(dataRAMToken[0])
+				else:
+					dataRAM = int(dataRAMToken[0])*1000
+				if dataRAM > queryRAM:
+					cocok = False
+					break
+			if att == "RAMMin":
+				queryRAMToken = exdic["RAM"].lower().split()
+				queryRAM = 0
+				if queryRAMToken[1] == "mb":
+					queryRAM = int(queryRAMToken[0])
+				else:
+					queryRAM = int(queryRAMToken[0])*1000
+				dataRAMToken = data[brand][phone]["RAM"].lower().split()
+				dataRAM = 0
+				if dataRAMToken[1] == "mb":
+					dataRAM = int(dataRAMToken[0])
+				else:
+					dataRAM = int(dataRAMToken[0])*1000
+				if dataRAM < queryRAM:
 					cocok = False
 					break
 			#if att == "ScreenSize":
@@ -221,7 +265,7 @@ for brand in data:
 					break
 			if att == "Tebal":
 				token = data[brand][phone]["Tebal"].split()
-				if float(token[0]) > float(exdic["Berat"]):
+				if float(token[0]) > 7.5:
 					cocok = False
 					break
 			if att == "Fingerprint Reader":

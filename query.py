@@ -26,63 +26,25 @@ with open('data.json') as json_data:
 exdic = {}
 brand_search = ""
 brand_spesific = []
+count = 0
+bs = ""
 
 for index, spec in enumerate(fixed_query) :
 	if(spec == "samsung" ) :
 		brand_search = "Samsung"
 		count = index
-		bs = ""
-		while(count < len(fixed_query)-1) :
-			count+=1
-			bs += " " + fixed_query[count]
-		print(bs)
-		for phone in (data[brand_search]) :
-			if(bs in phone.lower()) :
-				brand_spesific.append(phone)
 	elif(spec == "oneplus") :
 		brand_search = "OnePlus"
 		count = index
-		bs = ""
-		while(count < len(fixed_query)-1) :
-			count+=1
-			bs += " " + fixed_query[count]
-		print(bs)
-		for phone in (data[brand_search]) :
-			if(bs in phone.lower()) :
-				brand_spesific.append(phone)
 	elif (spec == "iphone") :
 		brand_search = "Iphone"
 		count = index
-		bs = ""
-		while(count < len(fixed_query)-1) :
-			count+=1
-			bs += " " + fixed_query[count]
-		print(bs)
-		for phone in (data[brand_search]) :
-			if(bs in phone.lower()) :
-				brand_spesific.append(phone)
 	elif (spec == "xiaomi") :
 		brand_search = "Xiaomi"
 		count = index
-		bs = ""
-		while(count < len(fixed_query)-1) :
-			count+=1
-			bs += " " + fixed_query[count]
-		print(bs)
-		for phone in (data[brand_search]) :
-			if(bs in phone.lower()) :
-				brand_spesific.append(phone)
 	elif (spec == "asus") :
 		brand_search = "Asus"
 		count = index
-		bs = ""
-		while(count < len(fixed_query)-1) :
-			count+=1
-			bs += " " + fixed_query[count]
-		print(bs)
-		for phone in (data[brand_search]) :
-			if(bs in phone.lower()) :
-				brand_spesific.append(phone)
 	elif(spec == "harga" or spec == "harganya") :
 		price = fixed_query[index+1]
 		try: 
@@ -151,6 +113,12 @@ for index, spec in enumerate(fixed_query) :
 				exdic["RAMMin"] = "4 gb"
 			elif(size == "kecil") :
 				exdic["RAMMax"] = "4 gb"
+	else :
+		count+=1
+		bs += " " + fixed_query[count]
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
 
 #query = "Hp warna merah ram 1gb"
 #exdic = {"Warna" : "Blue", "RAM" : "2 GB", "Battery": "2000 mAh", "Fingerprint Reader" : 1, "Berat": "150"} #nanti dictionarynya nambahin attribut lg sesuai query
@@ -165,7 +133,7 @@ for brand in data:
 	#loop every phone in that brand
 	for phone in data[brand]:
 		cocok = True
-		if(not phone in brand_spesific) :
+		if(len(brand_spesific) != 0 and not phone in brand_spesific) :
 			cocok = False
 		#loop every attribut in exdic
 		for att in exdic:
@@ -177,15 +145,16 @@ for brand in data:
 				queryRAMToken = exdic["RAM"].lower().split()
 				queryRAM = 0
 				if queryRAMToken[1] == "mb":
-					queryRAM = int(queryRAMToken[0])
+					queryRAM = float(queryRAMToken[0])
 				else:
-					queryRAM = int(queryRAMToken[0])*1000
+					queryRAM = float(queryRAMToken[0])*1000
 				dataRAMToken = data[brand][phone]["RAM"].lower().split()
 				dataRAM = 0
 				if dataRAMToken[1] == "mb":
-					dataRAM = int(dataRAMToken[0])
+					dataRAM = float(dataRAMToken[0])
 				else:
-					dataRAM = int(dataRAMToken[0])*1000
+					dataRAM = float(dataRAMToken[0])*1000
+				print(phone + " " + str(dataRAM))
 				if dataRAM != queryRAM:
 					cocok = False
 					break
@@ -277,20 +246,20 @@ for brand in data:
 		if cocok:
 			arr.append(brand + ";" + phone)
 
-
-for phone in (arr) :
-	brand = phone.split(";")
-	print("------------------------------" + brand[1] + "------------------------------------")
-	for spec in (data[brand[0]][brand[1]]) :
-		if(spec == "Camera") :
-			for camera_spec in (data[brand[0]][brand[1]][spec]) :
-				print(camera_spec + ": " + data[brand[0]][brand[1]][spec][camera_spec])
-		elif (spec == "Fingerprint Reader" or spec == "Dualsim") :
-			if(data[brand[0]][brand[1]][spec	] == 1) :
-				print(spec + ": Yes")
-			else :				
-				print(spec + ": No")
-		else :
-			print(spec + ": " + data[brand[0]][brand[1]][spec])
-
-			
+if(len(arr) == 0):
+	print("Hp yang anda inginkan tidak ditemukan :(")
+else :
+	for phone in (arr) :
+		brand = phone.split(";")
+		print("------------------------------" + brand[1] + "------------------------------------")
+		for spec in (data[brand[0]][brand[1]]) :
+			if(spec == "Camera") :
+				for camera_spec in (data[brand[0]][brand[1]][spec]) :
+					print(camera_spec + ": " + data[brand[0]][brand[1]][spec][camera_spec])
+			elif (spec == "Fingerprint Reader" or spec == "Dualsim") :
+				if(data[brand[0]][brand[1]][spec	] == 1) :
+					print(spec + ": Yes")
+				else :				
+					print(spec + ": No")
+			else :
+				print(spec + ": " + data[brand[0]][brand[1]][spec])

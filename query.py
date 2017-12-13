@@ -8,65 +8,152 @@ data_query = query.split(" ")
 
 list_stopword = []
 stopword = open("stopword.txt","r") #open stopword file
+
 for word in stopword :
-    list_stopword.append((word.split("\n")[0]))
+	list_stopword.append((word.split("\n")[0]))
 
 fixed_query = []
 
 for word in data_query :
-    if(not word.lower() in list_stopword) :
-        fixed_query.append(word.lower())
+	if(not word.lower() in list_stopword) :
+		fixed_query.append(word.lower())
 
 print(fixed_query)
 
-exdic = {}
-brand_search = ""
-
-for index, spec in enumerate(fixed_query) :
-    if(spec == "samsung" ) :
-        brand_search = "Samsung"
-    elif(spec == "oneplus") :
-        brand_search = "OnePlus"
-    elif (spec == "iphone") :
-        brand_search = "Iphone"
-    elif (spec == "xiaomi") :
-        brand_search = "Xiaomi"
-    elif (spec == "asus") :
-        brand_search = "Asus"
-    elif(spec == "harga" or spec == "harganya") :
-        price = fixed_query[index+1]
-        try: 
-            value = int(price)
-            if(value <= 1000) :
-                following = fixed_query[index+2]
-
-                if(following == "jt" or following == "juta") :
-                    exdic["Price"] = value * 1000000
-                elif(following.lower() == "ribu" or following.lower() == "rebu") :
-                    exdic["Price"] = value * 100000
-            else :
-                exdic["Price"] = value
-        except ValueError:
-            if(price == "dibawah") :
-                price = fixed_query[index+2]
-                try :
-                    value = int(price)
-                    if(value <= 1000) :
-                        following = fixed_query[index+3]
-                        if(following.lower() == "jt" or following.lower() == "juta") :
-                            exdic["PriceMax"] = value * 1000000
-                        elif(following.lower() == "ribu" or following.lower() == "rebu") :
-                            exdic["PriceMax"] = value * 100000
-                except ValueError : 
-                    pass
-    elif (spec == "murah") :
-        exdic["PriceMax"] = "3000000"
-    
-#query = "Hp warna merah ram 1gb"
-#exdic = {"Warna" : "Blue", "RAM" : "2 GB", "Battery": "2000 mAh", "Fingerprint Reader" : 1, "Berat": "150"} #nanti dictionarynya nambahin attribut lg sesuai query
-
 with open('data.json') as json_data:
 	data = json.load(json_data)
+
+exdic = {}
+brand_search = ""
+brand_spesific = []
+
+for index, spec in enumerate(fixed_query) :
+	if(spec == "samsung" ) :
+		brand_search = "Samsung"
+		count = index
+		bs = ""
+		while(count < len(fixed_query)-1) :
+			count+=1
+			bs += " " + fixed_query[count]
+		print(bs)
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
+	elif(spec == "oneplus") :
+		brand_search = "OnePlus"
+		count = index
+		bs = ""
+		while(count < len(fixed_query)-1) :
+			count+=1
+			bs += " " + fixed_query[count]
+		print(bs)
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
+	elif (spec == "iphone") :
+		brand_search = "Iphone"
+		count = index
+		bs = ""
+		while(count < len(fixed_query)-1) :
+			count+=1
+			bs += " " + fixed_query[count]
+		print(bs)
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
+	elif (spec == "xiaomi") :
+		brand_search = "Xiaomi"
+		count = index
+		bs = ""
+		while(count < len(fixed_query)-1) :
+			count+=1
+			bs += " " + fixed_query[count]
+		print(bs)
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
+	elif (spec == "asus") :
+		brand_search = "Asus"
+		count = index
+		bs = ""
+		while(count < len(fixed_query)-1) :
+			count+=1
+			bs += " " + fixed_query[count]
+		print(bs)
+		for phone in (data[brand_search]) :
+			if(bs in phone.lower()) :
+				brand_spesific.append(phone)
+	elif(spec == "harga" or spec == "harganya") :
+		price = fixed_query[index+1]
+		try: 
+			value = int(price)
+			if(value <= 1000) :
+				following = fixed_query[index+2]
+
+				if(following == "jt" or following == "juta") :
+					exdic["Price"] = value * 1000000
+				elif(following.lower() == "ribu" or following.lower() == "rebu") :
+					exdic["Price"] = value * 100000
+			else :
+				exdic["Price"] = value
+		except ValueError:
+			if(price == "dibawah") :
+				price = fixed_query[index+2]
+				try :
+					value = int(price)
+					if(value <= 1000) :
+						following = fixed_query[index+3]
+						if(following.lower() == "jt" or following.lower() == "juta") :
+							exdic["PriceMax"] = value * 1000000
+						elif(following.lower() == "ribu" or following.lower() == "rebu") :
+							exdic["PriceMax"] = value * 100000
+				except ValueError : 
+					pass
+	elif (spec == "murah") :
+		exdic["PriceMax"] = "3000000"
+	elif (spec == "ram") :
+		size = fixed_query[index+1]
+		try :
+			if("gb" in size or "mb" in size) :
+				value = size[0:len(size)-2]
+				byte = size[len(size)-2:]
+				exdic["RAM"] = value + " " + byte
+				print(exdic["RAM"])
+			else :
+				int(size)
+				byte = fixed_query[index+2]
+				exdic["RAM"] = str(size) + " " + byte
+				print(exdic["RAM"])
+		except ValueError :
+			if(size == "dibawah") :
+				size = fixed_query[index+2]
+				if("gb" in size or "mb" in size) :
+					value = size[0:len(size)-2]
+					byte = size[len(size)-2:]
+					exdic["RAMMax"] = value + " " + byte
+					print(exdic["RAMMax"])
+				else :
+					byte = fixed_query[index+2]
+					exdic["RAMMax"] = size + " " + byte
+					print(exdic["RAMMax"])
+			elif(size == "diatas") :
+				size = fixed_query[index+2]
+				if("gb" in size or "mb" in size) :
+					value = size[0:len(size)-2]
+					byte = size[len(size)-2:]
+					exdic["RAMMin"] = value + " " + byte
+					print(exdic["RAMMin"])
+				else :
+					byte = fixed_query[index+2]
+					exdic["RAMMin"] = size + " " + byte
+					print(exdic["RAMMin"])
+			elif(size == "besar" or size == "gede") :
+				exdic["RAMMin"] = "4 gb"
+			elif(size == "kecil") :
+				exdic["RAMMax"] = "4 gb"
+
+#query = "Hp warna merah ram 1gb"
+#exdic = {"Warna" : "Blue", "RAM" : "2 GB", "Battery": "2000 mAh", "Fingerprint Reader" : 1, "Berat": "150"} #nanti dictionarynya nambahin attribut lg sesuai query
 
 print(exdic)
 arr = [] #array isinya hp yang sesuai query
@@ -78,6 +165,8 @@ for brand in data:
 	#loop every phone in that brand
 	for phone in data[brand]:
 		cocok = True
+		if(not phone in brand_spesific) :
+			cocok = False
 		#loop every attribut in exdic
 		for att in exdic:
 			if att == "Warna":
@@ -85,7 +174,7 @@ for brand in data:
 					cocok = False
 					break
 			if att == "RAM":
-				if int(data[brand][phone]["RAM"][0:1]) < int(exdic["RAM"][0:1]):
+				if int(data[brand][phone]["RAM"][0:1]) != int(exdic["RAM"][0:1]):
 					cocok = False
 					break
 			#if att == "ScreenSize":
@@ -159,3 +248,5 @@ for phone in (arr) :
 				print(spec + ": No")
 		else :
 			print(spec + ": " + data[brand[0]][brand[1]][spec])
+
+			

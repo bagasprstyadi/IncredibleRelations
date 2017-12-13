@@ -876,7 +876,7 @@
         "Network":"GSM / HSPA / LTE",
         "Dualsim":1
      },
-     "Asus Pegasus 2 Plus":{  
+     "Asus Pegasus 2+":{  
         "CPU":"Octa-core",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
@@ -1501,7 +1501,7 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6 plus":{  
+     "Iphone 6+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A8",
         "Dualsim":0,
@@ -1524,7 +1524,7 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 6s plus":{  
+     "Iphone 6s+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
         "Dualsim":0,
@@ -1570,7 +1570,7 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 7 plus":{  
+     "Iphone 7+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A10 Fusion",
         "Dualsim":0,
@@ -1616,7 +1616,7 @@
         "Fingerprint Reader":1,
         "Misc":""
      },
-     "Iphone 8 plus":{  
+     "Iphone 8+":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
         "Dualsim":0,

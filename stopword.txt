@@ -110,7 +110,6 @@ berturut-turut
 bertutur
 berujar
 berupa
-besar
 betul
 betulkah
 biasa
@@ -312,7 +311,6 @@ katanya
 ke
 keadaan
 kebetulan
-kecil
 kedua
 keduanya
 keinginan

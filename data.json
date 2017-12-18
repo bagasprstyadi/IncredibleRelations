@@ -14,14 +14,14 @@
            "Primary":"Dual 12 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Midnight Black,Maple Gold,Orchid Grey,Deep Sea Blue",
-        "Berat":"195 g",
-        "Tebal":"8.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Midnight Black,Maple Gold,Orchid Grey,Deep Sea Blue",
+        "Weight":"195 g",
+        "Thick":"8.6 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 835",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy Note 7":{  
         "CPU":"Octa-core",
@@ -37,14 +37,14 @@
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Blue Coral,Gold Platinum,Silver Titanium,Black Onyx",
-        "Berat":"169 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Blue Coral,Gold Platinum,Silver Titanium,Black Onyx",
+        "Weight":"169 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"Bisa meledak",
         "Chipset":"Exynos 8890 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy Note 5":{  
         "CPU":"Octa-core",
@@ -60,14 +60,14 @@
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black Sapphire,Gold Platinum, Silver Titan,White Pearl",
-        "Berat":"171 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black Sapphire,Gold Platinum, Silver Titan,White Pearl",
+        "Weight":"171 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7420 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy Note 4":{  
         "CPU":"Quad-core",
@@ -83,14 +83,14 @@
            "Primary":"16 MP",
            "Secondary":"3.7 MP"
         },
-        "Warna":"Frosted white,Charcoal black,Bronze Gold,Blossom Pink",
-        "Berat":"176 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Frosted white,Charcoal black,Bronze Gold,Blossom Pink",
+        "Weight":"176 g",
+        "Thick":"8.5 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 805",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy Note 3":{  
         "CPU":"Quad-core",
@@ -106,14 +106,14 @@
            "Primary":"13 MP",
            "Secondary":"3 MP"
         },
-        "Warna":"Black,White,Pink,Merlot Red,Rose Gold Black,Rose Gold White",
-        "Berat":"168 g",
-        "Tebal":"8.3 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black,White,Pink,Merlot Red,Rose Gold Black,Rose Gold White",
+        "Weight":"168 g",
+        "Thick":"8.3 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 800",
         "Network":"GSM / CDMA / HSPA / EVDO / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy Note 2":{  
         "CPU":"Quad-core",
@@ -129,14 +129,14 @@
            "Primary":"8 MP",
            "Secondary":"1.9 MP"
         },
-        "Warna":"Titanium Gray,Marble White,Amber Brown,Ruby Wine,Pink,Blue",
-        "Berat":"183 g",
-        "Tebal":"9.4 mm",
-        "Fingerprint Reader":0,
+        "Color":"Titanium Gray,Marble White,Amber Brown,Ruby Wine,Pink,Blue",
+        "Weight":"183 g",
+        "Thick":"9.4 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Exynos 4412",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy Note 1":{  
         "CPU":"Quad-core",
@@ -152,14 +152,14 @@
            "Primary":"Dual 8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Black, White, Pink",
-        "Berat":"178 g",
-        "Tebal":"9.7 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White, Pink",
+        "Weight":"178 g",
+        "Thick":"9.7 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Exynos",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S8+":{  
         "CPU":"Octa-core",
@@ -175,14 +175,14 @@
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Midnight Black,Orchid Gray,Arctic Silver,Coral Blue,Maple Gold,Rose Pink",
-        "Berat":"173 g",
-        "Tebal":"8.1 mm",
-        "Fingerprint Reader":1,
+        "Color":"Midnight Black,Orchid Gray,Arctic Silver,Coral Blue,Maple Gold,Rose Pink",
+        "Weight":"173 g",
+        "Thick":"8.1 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 835",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy S8":{  
         "CPU":"Octa-core",
@@ -198,14 +198,14 @@
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Midnight Black,Orchid Gray,Arctic Silver,Coral Blue,Maple Gold",
-        "Berat":"155 g",
-        "Tebal":"8 mm",
-        "Fingerprint Reader":1,
+        "Color":"Midnight Black,Orchid Gray,Arctic Silver,Coral Blue,Maple Gold",
+        "Weight":"155 g",
+        "Thick":"8 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 835",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy S7 Edge":{  
         "CPU":"Quad-core",
@@ -221,14 +221,14 @@
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black White,Gold,Silver,Pink Gold,Black Pearl,Coral Blue",
-        "Berat":"157 g",
-        "Tebal":"7.7 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black White,Gold,Silver,Pink Gold,Black Pearl,Coral Blue",
+        "Weight":"157 g",
+        "Thick":"7.7 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 820",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy S7":{  
         "CPU":"Octa-core",
@@ -244,14 +244,14 @@
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black,White,Gold,Silver,Pink Gold",
-        "Berat":"152 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black,White,Gold,Silver,Pink Gold",
+        "Weight":"152 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 820",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy S6 Edge":{  
         "CPU":"Octa-core",
@@ -267,14 +267,14 @@
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"White Pearl,Black Sapphire,Gold Platinum,Green Emerald",
-        "Berat":"132 g",
-        "Tebal":"7 mm",
-        "Fingerprint Reader":1,
+        "Color":"White Pearl,Black Sapphire,Gold Platinum,Green Emerald",
+        "Weight":"132 g",
+        "Thick":"7 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7420 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S6":{  
         "CPU":"Octa-core",
@@ -290,14 +290,14 @@
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"White Pearl,Black Sapphire,Gold Platinum,Blue Topaz",
-        "Berat":"138 g",
-        "Tebal":"6.8 mm",
-        "Fingerprint Reader":1,
+        "Color":"White Pearl,Black Sapphire,Gold Platinum,Blue Topaz",
+        "Weight":"138 g",
+        "Thick":"6.8 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7420 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S5":{  
         "CPU":"Quad-core",
@@ -313,14 +313,14 @@
            "Primary":"16 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Charcoal Black,Copper Gold,Electric Blue,Shimmery White",
-        "Berat":"145 g",
-        "Tebal":"8.1 mm",
-        "Fingerprint Reader":1,
+        "Color":"Charcoal Black,Copper Gold,Electric Blue,Shimmery White",
+        "Weight":"145 g",
+        "Thick":"8.1 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 801",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S4":{  
         "CPU":"Octa-core",
@@ -336,14 +336,14 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"White Frost,Black Mist,Arctic Blue,Black Edition",
-        "Berat":"130 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"White Frost,Black Mist,Arctic Blue,Black Edition",
+        "Weight":"130 g",
+        "Thick":"7.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Exynos 5410 Octa",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S3":{  
         "CPU":"Quad-core",
@@ -359,14 +359,14 @@
            "Primary":"8 MP",
            "Secondary":"1.9 MP"
         },
-        "Warna":"Pebble blue,Marble white,Amber brown,Garnet red,Sapphire black,Titanium grey,La Fleur",
-        "Berat":"133 g",
-        "Tebal":"8.6 mm",
-        "Fingerprint Reader":0,
+        "Color":"Pebble blue,Marble white,Amber brown,Garnet red,Sapphire black,Titanium grey,La Fleur",
+        "Weight":"133 g",
+        "Thick":"8.6 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Exynos 4412 Quad",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy S2":{  
         "CPU":"Dual-core",
@@ -382,14 +382,14 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Black,White,Pink",
-        "Berat":"116 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black,White,Pink",
+        "Weight":"116 g",
+        "Thick":"8.5 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Exynos 4210 Dual",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy A3":{  
         "CPU":"Quad-core",
@@ -405,14 +405,14 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
-        "Berat":"138 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
+        "Weight":"138 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7870 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy A5":{  
         "CPU":"Quad-core",
@@ -428,14 +428,14 @@
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
-        "Berat":"157 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
+        "Weight":"157 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7880 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy A7":{  
         "CPU":"Octa-core",
@@ -451,14 +451,14 @@
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
-        "Berat":"186 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black Sky,Gold Sand,Blue Mist,Peach Cloud",
+        "Weight":"186 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7880 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy A8":{  
         "CPU":"Octa-core",
@@ -474,14 +474,14 @@
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Blue,Pink,Silver,Gold",
-        "Berat":"182 g",
-        "Tebal":"7.2 mm",
-        "Fingerprint Reader":1,
+        "Color":"Blue,Pink,Silver,Gold",
+        "Weight":"182 g",
+        "Thick":"7.2 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7420 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Galaxy J2 Prime":{  
         "CPU":"Quad-core",
@@ -497,14 +497,14 @@
            "Primary":"8 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black,Gold,Silver,Pink",
-        "Berat":"160 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black,Gold,Silver,Pink",
+        "Weight":"160 g",
+        "Thick":"8.9 mm",
+        "Censors":"",
         "Misc":"",
         "chipset":"MT6737T",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy J7 Prime":{  
         "CPU":"Octa-core",
@@ -520,14 +520,14 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Black,Gold,Rose Gold",
-        "Berat":"167 g",
-        "Tebal":"8 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black,Gold,Rose Gold",
+        "Weight":"167 g",
+        "Thick":"8 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Exynos 7870 Octa",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy C5":{  
         "CPU":"Octa-core",
@@ -543,14 +543,14 @@
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Gold,Pink Gold,Dark Gray",
-        "Berat":"143 g",
-        "Tebal":"6.7 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold,Pink Gold,Dark Gray",
+        "Weight":"143 g",
+        "Thick":"6.7 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 617",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Galaxy C7":{  
         "CPU":"Octa-core",
@@ -566,14 +566,14 @@
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Gold,Pink Gold,Dark Gray",
-        "Berat":"169 g",
-        "Tebal":"6.8 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold,Pink Gold,Dark Gray",
+        "Weight":"169 g",
+        "Thick":"6.8 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 625",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      }
   },
   "Asus":{  
@@ -591,14 +591,14 @@
            "Primary":"Dual 12 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Moonlight white, Pure Black",
-        "Berat":"175 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Moonlight white, Pure Black",
+        "Weight":"175 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 835",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 4 Selfie Lite ZB553KL":{  
         "CPU":"Quad-core",
@@ -614,14 +614,14 @@
            "Primary":"13 MP",
            "Secondary":"13 MP"
         },
-        "Warna":"Deepsea Black, Mint Green, Rose Pink, Sunlight Gold",
-        "Berat":"144 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Deepsea Black, Mint Green, Rose Pink, Sunlight Gold",
+        "Weight":"144 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 425",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone Live ZB501KL":{  
         "CPU":"Quad-core",
@@ -637,14 +637,14 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Shimmer Gold/Rose, Pink/Navy Black",
-        "Berat":"120 g",
-        "Tebal":"8.0 mm",
-        "Fingerprint Reader":0,
+        "Color":"Shimmer Gold/Rose, Pink/Navy Black",
+        "Weight":"120 g",
+        "Thick":"8.0 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 410",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 3s Max ZC521TL":{  
         "CPU":"Octa-core",
@@ -660,14 +660,14 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Gold, Black",
-        "Berat":"175 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold, Black",
+        "Weight":"175 g",
+        "Thick":"8.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"MT6750",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone AR ZS571KL":{  
         "CPU":"Quad-core",
@@ -683,14 +683,14 @@
            "Primary":"23 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Black",
-        "Berat":"170 g",
-        "Tebal":"9.0 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black",
+        "Weight":"170 g",
+        "Thick":"9.0 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 821",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 3 Zoom ZE553KL":{  
         "CPU":"Octa-core",
@@ -706,14 +706,14 @@
            "Primary":"12 MP",
            "Secondary":"13 MP"
         },
-        "Warna":"Navy Black, Glacier Silver, Rose Gold",
-        "Berat":"170 g",
-        "Tebal":"8.0 mm",
-        "Fingerprint Reader":1,
+        "Color":"Navy Black, Glacier Silver, Rose Gold",
+        "Weight":"170 g",
+        "Thick":"8.0 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 625",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 3 Deluxe 5.5 ZS550KL":{  
         "CPU":"Octa-core",
@@ -729,14 +729,14 @@
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Shimmer Gold",
-        "Berat":"151 g",
-        "Tebal":"7.8 mm",
-        "Fingerprint Reader":1,
+        "Color":"Shimmer Gold",
+        "Weight":"151 g",
+        "Thick":"7.8 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":" Snapdragon 625",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 3 Laser ZC551KL":{  
         "CPU":"Octa-core",
@@ -752,14 +752,14 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Sand Gold, Glacier Silver",
-        "Berat":"150 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Sand Gold, Glacier Silver",
+        "Weight":"150 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"Snapdragon 430",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone Pegasus 3":{  
         "CPU":"Quad-core",
@@ -775,14 +775,14 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gold, silver, gray, rose gold",
-        "Berat":"158.4 g",
-        "Tebal":"8.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold, silver, gray, rose gold",
+        "Weight":"158.4 g",
+        "Thick":"8.6 mm",
+        "Censors":"Fingerprint",
         "Misc":"",
         "Chipset":"MT6737",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone Max ZC550KL":{  
         "CPU":"Quad-core",
@@ -798,14 +798,14 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black, White, Orange, Blue",
-        "Berat":"202 g",
-        "Tebal":"10.6 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White, Orange, Blue",
+        "Weight":"202 g",
+        "Thick":"10.6 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 615",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone Go ZB450KL":{  
         "CPU":"Quad-core",
@@ -821,14 +821,14 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Glacier Grey/Silver, Blue/Sheer Gold, Charcoal Black, Pearl White, Glamor Red, Lemon Yellow",
-        "Berat":"135 g",
-        "Tebal":"11.2 mm",
-        "Fingerprint Reader":0,
+        "Color":"Glacier Grey/Silver, Blue/Sheer Gold, Charcoal Black, Pearl White, Glamor Red, Lemon Yellow",
+        "Weight":"135 g",
+        "Thick":"11.2 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 410",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 2 Deluxe ZE551ML":{  
         "CPU":"Quad-core",
@@ -844,14 +844,14 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"White, Pink, Purple",
-        "Berat":"170 g",
-        "Tebal":"10.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, Pink, Purple",
+        "Weight":"170 g",
+        "Thick":"10.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z3580",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 2 Laser ZE601KL":{  
         "CPU":"Octa-core",
@@ -867,14 +867,14 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Glacier Gray, Sheer Gold, Glamour Red",
-        "Berat":"190 g",
-        "Tebal":"10.6 mm",
-        "Fingerprint Reader":0,
+        "Color":"Glacier Gray, Sheer Gold, Glamour Red",
+        "Weight":"190 g",
+        "Thick":"10.6 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 616",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Pegasus 2+":{  
         "CPU":"Octa-core",
@@ -890,14 +890,14 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Rose Gold, White",
-        "Berat":"156 g",
-        "Tebal":"8.1 mm",
-        "Fingerprint Reader":0,
+        "Color":"Rose Gold, White",
+        "Weight":"156 g",
+        "Thick":"8.1 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 615",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone C ZC451CG":{  
         "CPU":"Dual-core",
@@ -913,14 +913,14 @@
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red",
-        "Berat":"150 g",
-        "Tebal":"10.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red",
+        "Weight":"150 g",
+        "Thick":"10.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2520",
         "Network":"GSM / HSPA",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus Zenfone 5 Lite A502CG":{  
         "CPU":"Dual-core",
@@ -936,14 +936,14 @@
            "Primary":"8 MP",
            "Secondary":"VGA"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red",
-        "Berat":"160 g",
-        "Tebal":"10.8 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red",
+        "Weight":"160 g",
+        "Thick":"10.8 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2520",
         "Network":"GSM / HSPA",
-        "Dualsim":1
+        "SIM":"Dualsim"
      },
      "Asus PadFone X":{  
         "CPU":"Quad-core",
@@ -959,14 +959,14 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Titanium Black, Platinum White",
-        "Berat":"150 g",
-        "Tebal":"10.0 mm",
-        "Fingerprint Reader":0,
+        "Color":"Titanium Black, Platinum White",
+        "Weight":"150 g",
+        "Thick":"10.0 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 800",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus PadFone S":{  
         "CPU":"Quad-core",
@@ -982,14 +982,14 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red",
-        "Berat":"160 g",
-        "Tebal":"10.8 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red",
+        "Weight":"160 g",
+        "Thick":"10.8 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 801",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus Zenfone 6 A601CG":{  
         "CPU":"Dual-core",
@@ -1005,14 +1005,14 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red, Champagne Gold",
-        "Berat":"196 g",
-        "Tebal":"9.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red, Champagne Gold",
+        "Weight":"196 g",
+        "Thick":"9.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2560",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus Zenfone 4 (2014)":{  
         "CPU":"Dual-core",
@@ -1028,14 +1028,14 @@
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow",
-        "Berat":"115 g",
-        "Tebal":"9.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red, Sky Blue, Solar Yellow",
+        "Weight":"115 g",
+        "Thick":"9.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2520",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus PadFone Infinity 2":{  
         "CPU":"Quad-core",
@@ -1051,14 +1051,14 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Titanium Black, Platinum White",
-        "Berat":"145 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Titanium Black, Platinum White",
+        "Weight":"145 g",
+        "Thick":"8.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 800",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus PadFone mini 4G (Intel)":{  
         "CPU":"Dual-core",
@@ -1074,14 +1074,14 @@
            "Primary":"5 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Charcoal Black, Pearl White, Cherry Red",
-        "Berat":"150 g",
-        "Tebal":"12.5 mm",
-        "Fingerprint Reader":0,
+        "Color":"Charcoal Black, Pearl White, Cherry Red",
+        "Weight":"150 g",
+        "Thick":"12.5 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2560",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus Fonepad Note FHD6":{  
         "CPU":"Dual-core",
@@ -1097,14 +1097,14 @@
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"White, Black",
-        "Berat":"210 g",
-        "Tebal":"10.3 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, Black",
+        "Weight":"210 g",
+        "Thick":"10.3 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Intel Atom Z2580",
         "Network":"GSM / HSPA",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus PadFone Infinity":{  
         "CPU":"Quad-core",
@@ -1120,14 +1120,14 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Titanium Gray, Champagne Gold, Hot Pink",
-        "Berat":"141 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Titanium Gray, Champagne Gold, Hot Pink",
+        "Weight":"141 g",
+        "Thick":"8.9 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon 600",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      },
      "Asus Google Nexus 7 (2013)":{  
         "CPU":"Quad-core",
@@ -1143,21 +1143,21 @@
            "Primary":"5 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Black",
-        "Berat":"290 g",
-        "Tebal":"8.7 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black",
+        "Weight":"290 g",
+        "Thick":"8.7 mm",
+        "Censors":"",
         "Misc":"",
         "Chipset":"Snapdragon S4Pro",
         "Network":"GSM / HSPA / LTE",
-        "Dualsim":0
+        "SIM":""
      }
   },
   "OnePlus":{  
      "OnePlus One":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1171,16 +1171,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Silk White, Sandstone Black",
-        "Berat":"162 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Silk White, Sandstone Black",
+        "Weight":"162 g",
+        "Thick":"8.9 mm",
+        "Censors":"",
         "Misc":""
      },
      "OnePlus 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8994 Snapdragon 810",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x1.56 GHz Cortex-A53 & 4x1.82 GHz Cortex-A57)",
         "RAM":"3 GB, 4 GB",
         "GPU":"Adreno 430",
@@ -1194,16 +1194,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Sandstone Black",
-        "Berat":"175 g",
-        "Tebal":"9.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Sandstone Black",
+        "Weight":"175 g",
+        "Thick":"9.9 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "OnePlus 3":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1217,16 +1217,16 @@
            "Primary":"16 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Graphite, soft gold",
-        "Berat":"158 g",
-        "Tebal":"7.4 mm",
-        "Fingerprint Reader":1,
+        "Color":"Graphite, soft gold",
+        "Weight":"158 g",
+        "Thick":"7.4 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "OnePlus 3T":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"6 GB",
         "GPU":"Adreno 530",
@@ -1240,16 +1240,16 @@
            "Primary":"16 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Gunmetal, Soft Gold, Midnight Black",
-        "Berat":"158 g",
-        "Tebal":"7.4 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gunmetal, Soft Gold, Midnight Black",
+        "Weight":"158 g",
+        "Thick":"7.4 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "OnePlus 5":{  
         "Network":"GSM/HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1263,16 +1263,16 @@
            "Dual":"16 MP + 20 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Midnight Black, Slate Gray",
-        "Berat":"153 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Midnight Black, Slate Gray",
+        "Weight":"153 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "OnePlus 5T":{  
         "Network":"GSM/HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"6 GB/8 GB",
         "GPU":"Adreno 540",
@@ -1286,16 +1286,16 @@
            "Dual":"16 MP + 20 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Midnight Black, Lava Red (China only)",
-        "Berat":"162 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Midnight Black, Lava Red (China only)",
+        "Weight":"162 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "OnePlus X":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm Snapdragon 801",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 2.3 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1309,10 +1309,10 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Onyx, Ceramic, Champagne",
-        "Berat":"138 g",
-        "Tebal":"6.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Onyx, Ceramic, Champagne",
+        "Weight":"138 g",
+        "Thick":"6.9 mm",
+        "Censors":"",
         "Misc":""
      }
   },
@@ -1320,122 +1320,122 @@
      "Iphone 4":{  
         "Network":"GSM/HSPA",
         "Chipset":"Apple A4",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"1.0 GHz Cortex-A8",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX535",
         "Storage":"8/16/32 GB",
         "ScreenSize":"3.5 inches",
         "ScreenType":"LED-backlit IPS LCD",
-        "OS":"iOS 4, upgradable to iOS 7.1.2",
+        "OS":"iOS 4.0, upgradable to iOS 7.1.2",
         "Price":"IDR 3200000",
         "Battery":"1420 mAh",
         "Camera":{  
            "Primary":"5 MP",
            "Secondary":"VGA"
         },
-        "Warna":"Black, White",
-        "Berat":"137 g",
-        "Tebal":"9.3 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White",
+        "Weight":"137 g",
+        "Thick":"9.3 mm",
+        "Censors":"",
         "Misc":""
      },
      "Iphone 4s":{  
         "Network":"GSM/CDMA/EVDO/HSPA",
         "Chipset":"Apple A5",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.0 GHz Cortex-A9",
         "RAM":"512 MB",
         "GPU":"PowerVR SGX543MP2",
         "Storage":"8/16/32/64 GB",
         "ScreenSize":"3.5 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 5, upgradable to iOS 9.3.5",
+        "OS":"iOS 5.0, upgradable to iOS 9.3.5",
         "Price":"IDR 3050000",
         "Battery":"Non-removable Li-Po 1432 mAh battery (5.3 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"VGA"
         },
-        "Warna":"Black, White",
-        "Berat":"140 g",
-        "Tebal":"9.3 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White",
+        "Weight":"140 g",
+        "Thick":"9.3 mm",
+        "Censors":"",
         "Misc":""
      },
      "Iphone 5":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A6",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
         "Storage":"16/32/64 GB",
         "ScreenSize":"4.0 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 6, upgradable to iOS 10.3.3",
+        "OS":"iOS 6.0, upgradable to iOS 10.3.3",
         "Price":"IDR 5450000",
         "Battery":"Non-removable Li-Po 1440 mAh battery (5.45 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Black/Slate, White/Silver",
-        "Berat":"112 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black/Slate, White/Silver",
+        "Weight":"112 g",
+        "Thick":"7.6 mm",
+        "Censors":"",
         "Misc":""
      },
      "Iphone 5c":{  
         "Network":"GSM/CDMA/HSPA/LTE",
         "Chipset":"Apple A6",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.3 GHz Swift (ARM v7-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX 543MP3 (triple-core graphics)",
         "Storage":"8/16/32 GB",
         "ScreenSize":"4.0 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 7, upgradable to iOS 10.3.3",
+        "OS":"iOS 7.0, upgradable to iOS 10.3.3",
         "Price":"IDR 4800000",
         "Battery":"Non-removable Li-Po 1510 mAh battery (5.73 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"White, Blue, Green, Yellow, Pink",
-        "Berat":"132 g",
-        "Tebal":"9 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, Blue, Green, Yellow, Pink",
+        "Weight":"132 g",
+        "Thick":"9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Iphone 5s":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A7",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.3 GHz Cyclone (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR G6430 (quad-core graphics)",
         "Storage":"16/32/64 GB",
         "ScreenSize":"4.0 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 7, upgradable to iOS 11.2",
+        "OS":"iOS 7.0, upgradable to iOS 11.2",
         "Price":"IDR 5300000",
         "Battery":"Non-removable Li-Po 1560 mAh battery (5.92 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Space Gray, White/Silver, Gold",
-        "Berat":"112 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, White/Silver, Gold",
+        "Weight":"112 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone SE":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
@@ -1449,108 +1449,108 @@
            "Primary":"12 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Space Gray, Silver, Gold, Rose Gold",
-        "Berat":"113 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, Silver, Gold, Rose Gold",
+        "Weight":"113 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 6":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A8",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
         "Storage":"16/32/64/128 GB",
         "ScreenSize":"4.7 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 8, upgradable to iOS 11.2",
+        "OS":"iOS 8.0, upgradable to iOS 11.2",
         "Price":"IDR 6400000",
         "Battery":"Non-removable Li-Po 1810 mAh battery (6.9 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Space Gray, Silver, Gold",
-        "Berat":"129 g",
-        "Tebal":"6.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, Silver, Gold",
+        "Weight":"129 g",
+        "Thick":"6.9 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 6s":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
         "Storage":"16/32/64/128 GB",
         "ScreenSize":"4.7 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 9, upgradable to iOS 11.2",
+        "OS":"iOS 9.0, upgradable to iOS 11.2",
         "Price":"IDR 8100000",
         "Battery":"Non-removable Li-Ion 1715 mAh battery (6.91 Wh)",
         "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Space Gray, Silver, Gold, Rose Gold",
-        "Berat":"143 g",
-        "Tebal":"7.1 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, Silver, Gold, Rose Gold",
+        "Weight":"143 g",
+        "Thick":"7.1 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 6+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A8",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.4 GHz Typhoon (ARM v8-based)",
         "RAM":"1 GB",
         "GPU":"PowerVR GX6450 (quad-core graphics)",
         "Storage":"16/64/128 GB",
         "ScreenSize":"5.5 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 8, upgradable to iOS 11.2",
+        "OS":"iOS 8.0, upgradable to iOS 11.2",
         "Price":"IDR 8330000",
         "Battery":"Non-removable Li-Po 2915 mAh battery (11.1 Wh)",
         "Camera":{  
            "Primary":"8 MP",
            "Secondary":"1.2 MP"
         },
-        "Warna":"Space Gray, Silver, Gold",
-        "Berat":"172 g",
-        "Tebal":"7.1 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, Silver, Gold",
+        "Weight":"172 g",
+        "Thick":"7.1 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 6s+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A9",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Dual-core 1.84 GHz Twister",
         "RAM":"2 GB",
         "GPU":"PowerVR GT7600 (six-core graphics)",
         "Storage":"16/32/64/128 GB",
         "ScreenSize":"5.5 inches",
         "ScreenType":"LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
-        "OS":"iOS 9, upgradable to iOS 11.2",
+        "OS":"iOS 9.0, upgradable to iOS 11.2",
         "Price":"IDR 10000000",
         "Battery":"Non-removable Li-Ion 2750 mAh battery (10.45 Wh)",
         "Camera":{  
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Space Gray, Silver, Gold, Rose Gold",
-        "Berat":"192 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Space Gray, Silver, Gold, Rose Gold",
+        "Weight":"192 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 7":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A10 Fusion",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"2 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1564,16 +1564,16 @@
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
-        "Warna":"Jet Black, Black, Silver, Gold, Rose Gold, Red",
-        "Berat":"138 g",
-        "Tebal":"7.1 mm",
-        "Fingerprint Reader":1,
+        "Color":"Jet Black, Black, Silver, Gold, Rose Gold, Red",
+        "Weight":"138 g",
+        "Thick":"7.1 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 7+":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Apple A10 Fusion",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Quad-core 2.34 GHz (2x Hurricane + 2x Zephyr)",
         "RAM":"3 GB",
         "GPU":"PowerVR Series7XT Plus (six-core graphics)",
@@ -1587,16 +1587,16 @@
            "Dual":"12 MP + 12 MP",
            "Secondary":"7 MP"
         },
-        "Warna":"Jet Black, Black, Silver, Gold, Rose Gold, Red",
-        "Berat":"188 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Jet Black, Black, Silver, Gold, Rose Gold, Red",
+        "Weight":"188 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":"Dual Camera"
      },
      "Iphone 8":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"2 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1610,16 +1610,16 @@
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
-        "Warna":"Silver, Space Gray, Gold",
-        "Berat":"148 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Silver, Space Gray, Gold",
+        "Weight":"148 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone 8+":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Hexa-core (2x Monsoon + 4x Mistral)",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1633,16 +1633,16 @@
            "Primary":"12 MP",
            "Secondary":"7 MP"
         },
-        "Warna":"Silver, Space Gray, Gold",
-        "Berat":"202 g",
-        "Tebal":"7.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Silver, Space Gray, Gold",
+        "Weight":"202 g",
+        "Thick":"7.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Iphone X":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Apple A11 Bionic",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral",
         "RAM":"3 GB",
         "GPU":"Apple GPU (three-core graphics)",
@@ -1656,10 +1656,10 @@
            "Dual":"12 MP + 12 MP",
            "Secondary":"7 MP"
         },
-        "Warna":"Silver, Space GraY",
-        "Berat":"174 g",
-        "Tebal":"7.7 mm",
-        "Fingerprint Reader":1,
+        "Color":"Silver, Space GraY",
+        "Weight":"174 g",
+        "Thick":"7.7 mm",
+        "Censors":"Fingerprint",
         "Misc":"Face detection"
      }
   },
@@ -1667,7 +1667,7 @@
      "Xiaomi Redmi":{  
         "Network":"GSM/HSPA",
         "Chipset":"Mediatek MT6589T",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.5 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"PowerVR SGX544MP2",
@@ -1681,16 +1681,16 @@
            "Primary":"8 MP",
            "Secondary":"1.3 MP"
         },
-        "Warna":"Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
-        "Berat":"158 g",
-        "Tebal":"9.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
+        "Weight":"158 g",
+        "Thick":"9.9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi 1s":{  
         "Network":"GSM/HSPA",
         "Chipset":"Qualcomm MSM8228 Snapdragon 400",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.6 GHz Cortex-A7",
         "RAM":"1 GB",
         "GPU":"Adreno 305",
@@ -1704,16 +1704,16 @@
            "Primary":"8 MP",
            "Secondary":"1.6 MP"
         },
-        "Warna":"Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
-        "Berat":"158 g",
-        "Tebal":"9.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, Chinese Red, Metallic Gray/ blue, green, yellow panels",
+        "Weight":"158 g",
+        "Thick":"9.9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi 3":{  
         "Network":"GSM/HSPA",
         "Chipset":"Qualcomm MSM8274AB Snapdragon 800",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Quad-core 2.3 GHz Krait 400",
         "RAM":"2 GB",
         "GPU":"Adreno 330",
@@ -1727,16 +1727,16 @@
            "Primary":"13 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"White, Gray, Black, Yellow, Pink, Blue, Gold, Green",
-        "Berat":"145 g",
-        "Tebal":"8.1 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, Gray, Black, Yellow, Pink, Blue, Gold, Green",
+        "Weight":"145 g",
+        "Thick":"8.1 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi Note":{  
         "Network":"GSM/HSPA",
         "Chipset":" Mediatek MT6592",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 1.4/1.7 GHz Cortex-A7",
         "RAM":"1/2 GB",
         "GPU":"Mali-450MP4",
@@ -1750,16 +1750,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Various",
-        "Berat":"199 g",
-        "Tebal":"9.5 mm",
-        "Fingerprint Reader":0,
+        "Color":"Various",
+        "Weight":"199 g",
+        "Thick":"9.5 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi 4":{  
         "Network":"GSM/CDMA/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dualsim":0,
+        "SIM":"",
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"2/3 GB",
         "GPU":"Adreno 330",
@@ -1773,16 +1773,16 @@
            "Primary":"13 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Black, White",
-        "Berat":"149 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White",
+        "Weight":"149 g",
+        "Thick":"8.9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi 4s":{  
         "Network":"GSM/CDMA/HSPA/LTE",
         "Chipset":"Qualcomm MSM8992 Snapdragon 808",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A57)",
         "RAM":"3 GB",
         "GPU":"Adreno 418",
@@ -1796,16 +1796,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black, White, Gold, Pink",
-        "Berat":"133 g",
-        "Tebal":"7.8 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, White, Gold, Pink",
+        "Weight":"133 g",
+        "Thick":"7.8 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"1/2 GB",
         "GPU":"Adreno 306",
@@ -1819,16 +1819,16 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Black, White, Yellow, Pink, Green",
-        "Berat":"133 g",
-        "Tebal":"9.4 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White, Yellow, Pink, Green",
+        "Weight":"133 g",
+        "Thick":"9.4 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi Note":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8974AC Snapdragon 801",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 2.5 GHz Krait 400",
         "RAM":"3 GB",
         "GPU":"Adreno 330",
@@ -1842,16 +1842,16 @@
            "Primary":"13 MP",
            "Secondary":"4 MP"
         },
-        "Warna":"Black, White",
-        "Berat":"161 g",
-        "Tebal":"7 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White",
+        "Weight":"161 g",
+        "Thick":"7 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi 2 Prime":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1865,16 +1865,16 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"White, Dark gray",
-        "Berat":"133 g",
-        "Tebal":"9 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, Dark gray",
+        "Weight":"133 g",
+        "Thick":"9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi Note Pro":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8994 Snapdragon 810",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x2.0 GHz Cortex-A57)",
         "RAM":"4 GB",
         "GPU":"Adreno 330",
@@ -1888,16 +1888,16 @@
            "Primary":"13 MP",
            "Secondary":"4 MP"
         },
-        "Warna":"Black, White, Gold",
-        "Berat":"161 g",
-        "Tebal":"7 mm",
-        "Fingerprint Reader":0,
+        "Color":"Black, White, Gold",
+        "Weight":"161 g",
+        "Thick":"7 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi 2 Pro":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8916 Snapdragon 410",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.2 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 306",
@@ -1911,16 +1911,16 @@
            "Primary":"8 MP",
            "Secondary":"2 MP"
         },
-        "Warna":"Dark gray",
-        "Berat":"133 g",
-        "Tebal":"9 mm",
-        "Fingerprint Reader":0,
+        "Color":"Dark gray",
+        "Weight":"133 g",
+        "Thick":"9 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi Max":{  
         "Network":"GSM/CDMA/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8956 Snapdragon 650",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Hexa-core (4x1.4 GHz Cortex-A53 & 2x1.8 GHz Cortex-A72), Octa-core (4x1.4 GHz Cortex-A53 & 4x1.8 GHz Cortex-A72)",
         "RAM":"2/3/4 GB",
         "GPU":"Adreno 510",
@@ -1934,16 +1934,16 @@
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gray, Silver, Gold",
-        "Berat":"203 g",
-        "Tebal":"7.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gray, Silver, Gold",
+        "Weight":"203 g",
+        "Thick":"7.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi Note 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Mediatek MT6795 Helio X10",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"PowerVR G62006",
@@ -1957,16 +1957,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"White, blue, yellow, pink, mint green",
-        "Berat":"160 g",
-        "Tebal":"8.3 mm",
-        "Fingerprint Reader":0,
+        "Color":"White, blue, yellow, pink, mint green",
+        "Weight":"160 g",
+        "Thick":"8.3 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Mi 5":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x1.8 GHz Kryo & 2x1.36 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -1980,16 +1980,16 @@
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
-        "Warna":"Black, White, Gold, Ceramic",
-        "Berat":"129 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, White, Gold, Ceramic",
+        "Weight":"129 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi 5 Prime":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"3 GB",
         "GPU":"Adreno 530",
@@ -2003,16 +2003,16 @@
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
-        "Warna":"Black, White, Gold, Ceramic",
-        "Berat":"129 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, White, Gold, Ceramic",
+        "Weight":"129 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi 5 Pro":{  
         "Network":"GSM/HSPA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 820",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo)",
         "RAM":"4 GB",
         "GPU":"Adreno 530",
@@ -2026,16 +2026,16 @@
            "Primary":"16 MP",
            "Secondary":"4 MP"
         },
-        "Warna":"Black, White, Gold, Ceramic",
-        "Berat":"129 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, White, Gold, Ceramic",
+        "Weight":"129 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 3":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"2 GB",
         "GPU":"Adreno 405",
@@ -2049,16 +2049,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gold, Dark Gray, Silver, Classic Gold",
-        "Berat":"144 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":0,
+        "Color":"Gold, Dark Gray, Silver, Classic Gold",
+        "Weight":"144 g",
+        "Thick":"8.5 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi 3 Pro":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8939v2 Snapdragon 616",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x1.5 GHz Cortex-A53 & 4x1.2 GHz Cortex-A53)",
         "RAM":"3 GB",
         "GPU":"Adreno 405",
@@ -2072,16 +2072,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Dark Gray, Silver, Gold",
-        "Berat":"144 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Dark Gray, Silver, Gold",
+        "Weight":"144 g",
+        "Thick":"8.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 3x":{  
         "Network":"GSM/HSPA/EVDO/CDMA/LTE",
         "Chipset":"Qualcomm MSM8937 Snapdragon 430",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 1.4 GHz Cortex-A53",
         "RAM":"2 GB",
         "GPU":"Adreno 505",
@@ -2095,16 +2095,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gold, Dark Gray, Silver",
-        "Berat":"144 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold, Dark Gray, Silver",
+        "Weight":"144 g",
+        "Thick":"8.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi Note 2":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -2118,16 +2118,16 @@
            "Primary":"22.5 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Black, Gold, Silver",
-        "Berat":"166 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, Gold, Silver",
+        "Weight":"166 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi Mix":{  
         "Network":"GSM/HSPA/LTE",
         "Chipset":"Qualcomm MSM8996 Snapdragon 821",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core (2x2.35 GHz Kryo & 2x1.6 GHz Kry)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 530",
@@ -2141,16 +2141,16 @@
            "Primary":"16 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black, White",
-        "Berat":"209 g",
-        "Tebal":"7.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, White",
+        "Weight":"209 g",
+        "Thick":"7.9 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 4 Prime":{  
         "Network":"GSM/CDMA/EVDO/HSPA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3 GB",
         "GPU":"Adreno 506",
@@ -2164,16 +2164,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gold, Dark Gray, Silver",
-        "Berat":"156 g",
-        "Tebal":"8.9 mm",
-        "Fingerprint Reader":1,
+        "Color":"Gold, Dark Gray, Silver",
+        "Weight":"156 g",
+        "Thick":"8.9 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi 6":{  
         "Network":"GSM//HSPA/LTE",
         "Chipset":"Qualcomm MSM8998 Snapdragon 835",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x2.45 GHz Kryo & 4x1.9 GHz Kryo)",
         "RAM":"4/6 GB",
         "GPU":"Adreno 540",
@@ -2187,16 +2187,16 @@
            "Primary":"12 MP",
            "Secondary":"8 MP"
         },
-        "Warna":"Ceramic Black, Black, Blue, White",
-        "Berat":"168 g",
-        "Tebal":"7.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Ceramic Black, Black, Blue, White",
+        "Weight":"168 g",
+        "Thick":"7.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi A1":{  
         "Network":"GSM//HSPA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"4 GB",
         "GPU":"Adreno 506",
@@ -2210,16 +2210,16 @@
            "Primary":"Dual 12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Black, Gold, Rose Gold",
-        "Berat":"165 g",
-        "Tebal":"7.3 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, Gold, Rose Gold",
+        "Weight":"165 g",
+        "Thick":"7.3 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Mi Note 3":{  
         "Network":"GSM//HSPA/CDMA/EVDO/LTE",
         "Chipset":"Qualcomm MSM8956 Plus Snapdragon 660",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core (4x2.2 GHz Kryo 260 & 4x1.8 GHz Kryo 260)",
         "RAM":"6 GB",
         "GPU":"Adreno 512",
@@ -2233,16 +2233,16 @@
            "Primary":"12 MP",
            "Secondary":"16 MP"
         },
-        "Warna":"Black, Blue",
-        "Berat":"163 g",
-        "Tebal":"7.6 mm",
-        "Fingerprint Reader":1,
+        "Color":"Black, Blue",
+        "Weight":"163 g",
+        "Thick":"7.6 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 5":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm Snapdragon 450",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 506",
@@ -2256,16 +2256,16 @@
            "Primary":"12 MP",
            "Secondary":"5 MP"
         },
-        "Warna":" Black, Gold, Light Blue, Rose Gold",
-        "Berat":"157 g",
-        "Tebal":"7.7 mm",
-        "Fingerprint Reader":1,
+        "Color":" Black, Gold, Light Blue, Rose Gold",
+        "Weight":"157 g",
+        "Thick":"7.7 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      },
      "Xiaomi Redmi 5A":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8917 Snapdragon 425",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Quad-core 1.4 GHz Cortex-A53",
         "RAM":"2/3 GB",
         "GPU":"Adreno 308",
@@ -2279,16 +2279,16 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Gold, Dark Gray, Rose Gold, Blue",
-        "Berat":"137 g",
-        "Tebal":"8.4 mm",
-        "Fingerprint Reader":0,
+        "Color":"Gold, Dark Gray, Rose Gold, Blue",
+        "Weight":"137 g",
+        "Thick":"8.4 mm",
+        "Censors":"",
         "Misc":""
      },
      "Xiaomi Redmi Note 4X":{  
         "Network":"GSM//HSPA/CDMA/LTE",
         "Chipset":"Qualcomm MSM8953 Snapdragon 625",
-        "Dualsim":1,
+        "SIM":"Dualsim",
         "CPU":"Octa-core 2.0 GHz Cortex-A53",
         "RAM":"3/4 GB",
         "GPU":"Adreno 506",
@@ -2302,10 +2302,10 @@
            "Primary":"13 MP",
            "Secondary":"5 MP"
         },
-        "Warna":"Platinum Silver, Champagne Gold, Matte Black, Hatsune Miku, Sakura Powder",
-        "Berat":"165 g",
-        "Tebal":"8.5 mm",
-        "Fingerprint Reader":1,
+        "Color":"Platinum Silver, Champagne Gold, Matte Black, Hatsune Miku, Sakura Powder",
+        "Weight":"165 g",
+        "Thick":"8.5 mm",
+        "Censors":"Fingerprint",
         "Misc":""
      }
   }
